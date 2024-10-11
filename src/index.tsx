@@ -11,6 +11,10 @@ import App from './App'; // Import the main App component
 import msalConfig from './config/msalConfig'; // Import MSAL configuration
 import { store } from './store'; // Import the Redux store
 import reportWebVitals from './reportWebVitals'; // Import for performance metrics
+import { initializeMsalInstance } from './services/azureServices/tokenManager'; // Ensure MSAL initialization
+
+// Initialize MSAL instance before using it
+initializeMsalInstance();
 
 // Create an MSAL instance using the provided configuration
 const msalInstance = new PublicClientApplication(msalConfig);

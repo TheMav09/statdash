@@ -1,0 +1,3840 @@
+2024-10-11T17:52:25.512Z - {
+  "PDCEMR01.senderrarx.local": {
+    "CPU": 1.64,
+    "Memory": 12891.5,
+    "DiskFree": 82.7,
+    "DiskRead": 0.05,
+    "DiskWrite": 2.84,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 12548.52
+  },
+  "pusscdocweb01.senderrarx.local": {
+    "CPU": 0.98,
+    "Memory": 24020.5,
+    "DiskFree": 81.27,
+    "DiskRead": 2.33,
+    "DiskWrite": 3.92,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 33300.88
+  },
+  "PDCATS01.senderrarx.local": {
+    "CPU": 5.57,
+    "Memory": 16654,
+    "DiskFree": 27.69,
+    "DiskRead": 0.16,
+    "DiskWrite": 7.62,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 91939.74
+  },
+  "PDCData.senderrarx.local": {
+    "CPU": 4.9,
+    "Memory": 4394,
+    "DiskFree": 78.01,
+    "DiskRead": 0.03,
+    "DiskWrite": 4.71,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 25591.42
+  },
+  "pussccpweb04.senderrarx.local": {
+    "CPU": 32.75,
+    "Memory": 51382.5,
+    "DiskFree": 75.74,
+    "DiskRead": 0.25,
+    "DiskWrite": 5.12,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 690170.04
+  },
+  "PDCPrint1901.senderrarx.local": {
+    "CPU": 8.9,
+    "Memory": 7666,
+    "DiskFree": 20.41,
+    "DiskRead": 0.15,
+    "DiskWrite": 14.12,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 15611.47
+  },
+  "PDCBB01.senderrarx.local": {
+    "CPU": 4.9,
+    "Memory": 1221,
+    "DiskFree": 53.95,
+    "DiskRead": 0.53,
+    "DiskWrite": 2.29,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 26390.94
+  },
+  "pussccpweb01.senderrarx.local": {
+    "CPU": 18.01,
+    "Memory": 52994,
+    "DiskFree": 67.99,
+    "DiskRead": 0.09,
+    "DiskWrite": 5.54,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 614583.43
+  },
+  "PDCHelixApp01.senderrarx.local": {
+    "CPU": 5.64,
+    "Memory": 11686,
+    "DiskFree": 48.76,
+    "DiskRead": 7.7,
+    "DiskWrite": 6.06,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 84243.86
+  },
+  "PDCCPFS01.senderrarx.local": {
+    "CPU": 1.5,
+    "Memory": 56239,
+    "DiskFree": 42.24,
+    "DiskRead": 4.26,
+    "DiskWrite": 20.37,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 1015447.37
+  },
+  "pusscdwsql01.senderrarx.local": {
+    "CPU": 8.27,
+    "Memory": 18881,
+    "DiskFree": 68.86,
+    "DiskRead": 444,
+    "DiskWrite": 24.65,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 221952.88
+  },
+  "pussccpweb02.senderrarx.local": {
+    "CPU": 16,
+    "Memory": 52733,
+    "DiskFree": 57.97,
+    "DiskRead": 0.94,
+    "DiskWrite": 4.84,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 687379.04
+  },
+  "PDCAlA02": {
+    "CPU": 5.17,
+    "Memory": "N/A",
+    "DiskFree": "N/A",
+    "DiskRead": "N/A",
+    "DiskWrite": "N/A",
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 3036823856.63
+  },
+  "pussccpsql01.senderrarx.local": {
+    "CPU": 11.72,
+    "Memory": 99387.5,
+    "DiskFree": 71.29,
+    "DiskRead": 7.35,
+    "DiskWrite": 35.88,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 664604.31
+  },
+  "pusscdocweb02.senderrarx.local": {
+    "CPU": 1.64,
+    "Memory": 24547,
+    "DiskFree": 81.58,
+    "DiskRead": 2.22,
+    "DiskWrite": 3,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 111992.41
+  },
+  "PDCRNADB01.senderrarx.local": {
+    "CPU": 8.05,
+    "Memory": 30386,
+    "DiskFree": 49.26,
+    "DiskRead": 3.82,
+    "DiskWrite": 80.89,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 152548.94
+  },
+  "pussccpweb03.senderrarx.local": {
+    "CPU": 17.41,
+    "Memory": 51126,
+    "DiskFree": 68.62,
+    "DiskRead": 0.97,
+    "DiskWrite": 6.09,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 559280.67
+  },
+  "pusscitftp01.senderrarx.local": {
+    "CPU": 1.32,
+    "Memory": 3512.5,
+    "DiskFree": 88.68,
+    "DiskRead": 0.11,
+    "DiskWrite": 3.18,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 20389.99
+  },
+  "PDCAPI01.senderrarx.local": {
+    "CPU": 1.97,
+    "Memory": 21733,
+    "DiskFree": 25.21,
+    "DiskRead": 0.2,
+    "DiskWrite": 7.43,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 3080.15
+  }
+}
+2024-10-11T17:52:25.919Z - {
+  "PDCEMR01.senderrarx.local": {
+    "CPU": 1.64,
+    "Memory": 12891.5,
+    "DiskFree": 82.7,
+    "DiskRead": 0.05,
+    "DiskWrite": 2.84,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 12548.52
+  },
+  "pusscdocweb01.senderrarx.local": {
+    "CPU": 0.98,
+    "Memory": 24020.5,
+    "DiskFree": 81.27,
+    "DiskRead": 2.33,
+    "DiskWrite": 3.92,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 33300.88
+  },
+  "PDCATS01.senderrarx.local": {
+    "CPU": 5.57,
+    "Memory": 16654,
+    "DiskFree": 27.69,
+    "DiskRead": 0.16,
+    "DiskWrite": 7.62,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 91939.74
+  },
+  "PDCData.senderrarx.local": {
+    "CPU": 4.9,
+    "Memory": 4394,
+    "DiskFree": 78.01,
+    "DiskRead": 0.03,
+    "DiskWrite": 4.71,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 25591.42
+  },
+  "pussccpweb04.senderrarx.local": {
+    "CPU": 32.75,
+    "Memory": 51382.5,
+    "DiskFree": 75.74,
+    "DiskRead": 0.25,
+    "DiskWrite": 5.12,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 690170.04
+  },
+  "PDCPrint1901.senderrarx.local": {
+    "CPU": 8.9,
+    "Memory": 7666,
+    "DiskFree": 20.41,
+    "DiskRead": 0.15,
+    "DiskWrite": 14.12,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 15611.47
+  },
+  "PDCBB01.senderrarx.local": {
+    "CPU": 4.9,
+    "Memory": 1221,
+    "DiskFree": 53.95,
+    "DiskRead": 0.53,
+    "DiskWrite": 2.29,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 26390.94
+  },
+  "pussccpweb01.senderrarx.local": {
+    "CPU": 18.01,
+    "Memory": 52994,
+    "DiskFree": 67.99,
+    "DiskRead": 0.09,
+    "DiskWrite": 5.54,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 614583.43
+  },
+  "PDCHelixApp01.senderrarx.local": {
+    "CPU": 5.64,
+    "Memory": 11686,
+    "DiskFree": 48.76,
+    "DiskRead": 7.7,
+    "DiskWrite": 6.06,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 84243.86
+  },
+  "PDCCPFS01.senderrarx.local": {
+    "CPU": 1.5,
+    "Memory": 56239,
+    "DiskFree": 42.24,
+    "DiskRead": 4.26,
+    "DiskWrite": 20.37,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 1015447.37
+  },
+  "pusscdwsql01.senderrarx.local": {
+    "CPU": 8.27,
+    "Memory": 18881,
+    "DiskFree": 68.86,
+    "DiskRead": 444,
+    "DiskWrite": 24.65,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 221952.88
+  },
+  "pussccpweb02.senderrarx.local": {
+    "CPU": 16,
+    "Memory": 52733,
+    "DiskFree": 57.97,
+    "DiskRead": 0.94,
+    "DiskWrite": 4.84,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 687379.04
+  },
+  "PDCAlA02": {
+    "CPU": 5.17,
+    "Memory": "N/A",
+    "DiskFree": "N/A",
+    "DiskRead": "N/A",
+    "DiskWrite": "N/A",
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 3036823856.63
+  },
+  "pussccpsql01.senderrarx.local": {
+    "CPU": 11.72,
+    "Memory": 99387.5,
+    "DiskFree": 71.29,
+    "DiskRead": 7.35,
+    "DiskWrite": 35.88,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 664604.31
+  },
+  "pusscdocweb02.senderrarx.local": {
+    "CPU": 1.64,
+    "Memory": 24547,
+    "DiskFree": 81.58,
+    "DiskRead": 2.22,
+    "DiskWrite": 3,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 111992.41
+  },
+  "PDCRNADB01.senderrarx.local": {
+    "CPU": 8.05,
+    "Memory": 30386,
+    "DiskFree": 49.26,
+    "DiskRead": 3.82,
+    "DiskWrite": 80.89,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 152548.94
+  },
+  "pussccpweb03.senderrarx.local": {
+    "CPU": 17.41,
+    "Memory": 51126,
+    "DiskFree": 68.62,
+    "DiskRead": 0.97,
+    "DiskWrite": 6.09,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 559280.67
+  },
+  "pusscitftp01.senderrarx.local": {
+    "CPU": 1.32,
+    "Memory": 3512.5,
+    "DiskFree": 88.68,
+    "DiskRead": 0.11,
+    "DiskWrite": 3.18,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 20389.99
+  },
+  "PDCAPI01.senderrarx.local": {
+    "CPU": 1.97,
+    "Memory": 21733,
+    "DiskFree": 25.21,
+    "DiskRead": 0.2,
+    "DiskWrite": 7.43,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 3080.15
+  }
+}
+{
+  "PDCAPI01.senderrarx.local": {
+    "CPU": 8.97,
+    "Memory": 21749.5,
+    "DiskFree": 25.21,
+    "DiskRead": 0.41,
+    "DiskWrite": 7.06,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 5227.52
+  },
+  "pussccpweb04.senderrarx.local": {
+    "CPU": 32.71,
+    "Memory": 51104,
+    "DiskFree": 75.73,
+    "DiskRead": 0.59,
+    "DiskWrite": 6.83,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 607940.82
+  },
+  "PDCHelixApp01.senderrarx.local": {
+    "CPU": 5.54,
+    "Memory": 11695.33,
+    "DiskFree": 48.75,
+    "DiskRead": 6.68,
+    "DiskWrite": 5.94,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 104980.53
+  },
+  "pussccpweb01.senderrarx.local": {
+    "CPU": 21.93,
+    "Memory": 52592,
+    "DiskFree": 67.99,
+    "DiskRead": 0.21,
+    "DiskWrite": 5.46,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 369722.95
+  },
+  "PDCPrint1901.senderrarx.local": {
+    "CPU": 7.32,
+    "Memory": 7697.67,
+    "DiskFree": 20.42,
+    "DiskRead": 0.21,
+    "DiskWrite": 15.32,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 29348.43
+  },
+  "pusscdwsql01.senderrarx.local": {
+    "CPU": 2.51,
+    "Memory": 19040,
+    "DiskFree": 68.87,
+    "DiskRead": 9.4,
+    "DiskWrite": 8.04,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 219565.88
+  },
+  "pussccpweb02.senderrarx.local": {
+    "CPU": 21.48,
+    "Memory": 52015.67,
+    "DiskFree": 57.97,
+    "DiskRead": 0.36,
+    "DiskWrite": 6.35,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 620610.82
+  },
+  "PDCData.senderrarx.local": {
+    "CPU": 5.93,
+    "Memory": 4353,
+    "DiskFree": 78.01,
+    "DiskRead": 0.02,
+    "DiskWrite": 2.59,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 21507.24
+  },
+  "pusscdocweb02.senderrarx.local": {
+    "CPU": 1.39,
+    "Memory": 24577,
+    "DiskFree": 81.58,
+    "DiskRead": 3.14,
+    "DiskWrite": 3.41,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 61046.23
+  },
+  "PDCAlA02": {
+    "CPU": 8.11,
+    "Memory": "N/A",
+    "DiskFree": "N/A",
+    "DiskRead": "N/A",
+    "DiskWrite": "N/A",
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 2650879454.22
+  },
+  "pusscdocweb01.senderrarx.local": {
+    "CPU": 0.83,
+    "Memory": 24049.33,
+    "DiskFree": 81.27,
+    "DiskRead": 5.82,
+    "DiskWrite": 3.99,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 55094.05
+  },
+  "PDCRNADB01.senderrarx.local": {
+    "CPU": 7.11,
+    "Memory": 30256.5,
+    "DiskFree": 49.26,
+    "DiskRead": 3.85,
+    "DiskWrite": 78.82,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 134079.65
+  },
+  "pussccpweb03.senderrarx.local": {
+    "CPU": 14.97,
+    "Memory": 51497.67,
+    "DiskFree": 68.62,
+    "DiskRead": 0.39,
+    "DiskWrite": 5.45,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 569137.15
+  },
+  "pusscitftp01.senderrarx.local": {
+    "CPU": 3.7,
+    "Memory": 3503.25,
+    "DiskFree": 88.68,
+    "DiskRead": 0.39,
+    "DiskWrite": 3.77,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 109626.85
+  },
+  "PDCBB01.senderrarx.local": {
+    "CPU": 3.43,
+    "Memory": 1188.33,
+    "DiskFree": 53.95,
+    "DiskRead": 0.49,
+    "DiskWrite": 2.17,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 23175.2
+  },
+  "PDCEMR01.senderrarx.local": {
+    "CPU": 0.63,
+    "Memory": 12959.33,
+    "DiskFree": 82.7,
+    "DiskRead": 0.02,
+    "DiskWrite": 2.92,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 12680.24
+  },
+  "PDCATS01.senderrarx.local": {
+    "CPU": 5.44,
+    "Memory": 16621.5,
+    "DiskFree": 27.69,
+    "DiskRead": 1.2,
+    "DiskWrite": 8.42,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 76995.95
+  },
+  "pussccpsql01.senderrarx.local": {
+    "CPU": 13.79,
+    "Memory": 99476.5,
+    "DiskFree": 71.29,
+    "DiskRead": 15.93,
+    "DiskWrite": 44.3,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 672824.49
+  },
+  "PDCCPFS01.senderrarx.local": {
+    "CPU": 1.21,
+    "Memory": 56302,
+    "DiskFree": 42.24,
+    "DiskRead": 7.84,
+    "DiskWrite": 14.74,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 840851.03
+  }
+}
+{
+  "PDCAPI01.senderrarx.local": {
+    "CPU": 8.97,
+    "Memory": 21749.5,
+    "DiskFree": 25.21,
+    "DiskRead": 0.41,
+    "DiskWrite": 7.06,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 5227.52
+  },
+  "pussccpweb04.senderrarx.local": {
+    "CPU": 32.71,
+    "Memory": 51104,
+    "DiskFree": 75.73,
+    "DiskRead": 0.59,
+    "DiskWrite": 6.83,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 607940.82
+  },
+  "PDCHelixApp01.senderrarx.local": {
+    "CPU": 5.54,
+    "Memory": 11695.33,
+    "DiskFree": 48.75,
+    "DiskRead": 6.68,
+    "DiskWrite": 5.94,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 104980.53
+  },
+  "pussccpweb01.senderrarx.local": {
+    "CPU": 21.93,
+    "Memory": 52592,
+    "DiskFree": 67.99,
+    "DiskRead": 0.21,
+    "DiskWrite": 5.46,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 369722.95
+  },
+  "PDCPrint1901.senderrarx.local": {
+    "CPU": 7.32,
+    "Memory": 7697.67,
+    "DiskFree": 20.42,
+    "DiskRead": 0.21,
+    "DiskWrite": 15.32,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 29348.43
+  },
+  "pusscdwsql01.senderrarx.local": {
+    "CPU": 2.51,
+    "Memory": 19040,
+    "DiskFree": 68.87,
+    "DiskRead": 9.4,
+    "DiskWrite": 8.04,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 219565.88
+  },
+  "pussccpweb02.senderrarx.local": {
+    "CPU": 21.48,
+    "Memory": 52015.67,
+    "DiskFree": 57.97,
+    "DiskRead": 0.36,
+    "DiskWrite": 6.35,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 620610.82
+  },
+  "PDCData.senderrarx.local": {
+    "CPU": 5.93,
+    "Memory": 4353,
+    "DiskFree": 78.01,
+    "DiskRead": 0.02,
+    "DiskWrite": 2.59,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 21507.24
+  },
+  "pusscdocweb02.senderrarx.local": {
+    "CPU": 1.39,
+    "Memory": 24577,
+    "DiskFree": 81.58,
+    "DiskRead": 3.14,
+    "DiskWrite": 3.41,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 61046.23
+  },
+  "PDCAlA02": {
+    "CPU": 8.11,
+    "Memory": "N/A",
+    "DiskFree": "N/A",
+    "DiskRead": "N/A",
+    "DiskWrite": "N/A",
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 2650879454.22
+  },
+  "pusscdocweb01.senderrarx.local": {
+    "CPU": 0.83,
+    "Memory": 24049.33,
+    "DiskFree": 81.27,
+    "DiskRead": 5.82,
+    "DiskWrite": 3.99,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 55094.05
+  },
+  "PDCRNADB01.senderrarx.local": {
+    "CPU": 7.11,
+    "Memory": 30256.5,
+    "DiskFree": 49.26,
+    "DiskRead": 3.85,
+    "DiskWrite": 78.82,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 134079.65
+  },
+  "pussccpweb03.senderrarx.local": {
+    "CPU": 14.97,
+    "Memory": 51497.67,
+    "DiskFree": 68.62,
+    "DiskRead": 0.39,
+    "DiskWrite": 5.45,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 569137.15
+  },
+  "pusscitftp01.senderrarx.local": {
+    "CPU": 3.7,
+    "Memory": 3503.25,
+    "DiskFree": 88.68,
+    "DiskRead": 0.39,
+    "DiskWrite": 3.77,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 109626.85
+  },
+  "PDCBB01.senderrarx.local": {
+    "CPU": 3.43,
+    "Memory": 1188.33,
+    "DiskFree": 53.95,
+    "DiskRead": 0.49,
+    "DiskWrite": 2.17,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 23175.2
+  },
+  "PDCEMR01.senderrarx.local": {
+    "CPU": 0.63,
+    "Memory": 12959.33,
+    "DiskFree": 82.7,
+    "DiskRead": 0.02,
+    "DiskWrite": 2.92,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 12680.24
+  },
+  "PDCATS01.senderrarx.local": {
+    "CPU": 5.44,
+    "Memory": 16621.5,
+    "DiskFree": 27.69,
+    "DiskRead": 1.2,
+    "DiskWrite": 8.42,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 76995.95
+  },
+  "pussccpsql01.senderrarx.local": {
+    "CPU": 13.79,
+    "Memory": 99476.5,
+    "DiskFree": 71.29,
+    "DiskRead": 15.93,
+    "DiskWrite": 44.3,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 672824.49
+  },
+  "PDCCPFS01.senderrarx.local": {
+    "CPU": 1.21,
+    "Memory": 56302,
+    "DiskFree": 42.24,
+    "DiskRead": 7.84,
+    "DiskWrite": 14.74,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 840851.03
+  }
+}
+{
+  "PDCBB01.senderrarx.local": {
+    "CPU": 3.1,
+    "Memory": 1198,
+    "DiskFree": 53.95,
+    "DiskRead": 0.22,
+    "DiskWrite": 2.01,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 24789.8
+  },
+  "pussccpweb01.senderrarx.local": {
+    "CPU": 8.72,
+    "Memory": 53116,
+    "DiskFree": 67.96,
+    "DiskRead": 1.71,
+    "DiskWrite": 6.6,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 191273.39
+  },
+  "pusscdwsql01.senderrarx.local": {
+    "CPU": 29.02,
+    "Memory": 24746,
+    "DiskFree": 68.87,
+    "DiskRead": 173.06,
+    "DiskWrite": 4.92,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 220378.08
+  },
+  "PDCData.senderrarx.local": {
+    "CPU": 10.05,
+    "Memory": 4383.5,
+    "DiskFree": 78,
+    "DiskRead": 0.05,
+    "DiskWrite": 2.65,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 21522.99
+  },
+  "pusscdocweb02.senderrarx.local": {
+    "CPU": 2.36,
+    "Memory": 24590.33,
+    "DiskFree": 81.57,
+    "DiskRead": 7.29,
+    "DiskWrite": 3.53,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 68469
+  },
+  "pussccpweb04.senderrarx.local": {
+    "CPU": 14.53,
+    "Memory": 51618,
+    "DiskFree": 75.71,
+    "DiskRead": 0.1,
+    "DiskWrite": 4.56,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 240831.19
+  },
+  "pusscdocweb01.senderrarx.local": {
+    "CPU": 1.2,
+    "Memory": 23963,
+    "DiskFree": 81.27,
+    "DiskRead": 8.32,
+    "DiskWrite": 3.5,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 60763.18
+  },
+  "PDCPrint1901.senderrarx.local": {
+    "CPU": 8.93,
+    "Memory": 7552,
+    "DiskFree": 20.39,
+    "DiskRead": 0.26,
+    "DiskWrite": 16.34,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 14876.74
+  },
+  "PDCEMR01.senderrarx.local": {
+    "CPU": 0.4,
+    "Memory": 12974.5,
+    "DiskFree": 82.7,
+    "DiskRead": 0.01,
+    "DiskWrite": 2.55,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 12534.26
+  },
+  "pussccpweb03.senderrarx.local": {
+    "CPU": 17.56,
+    "Memory": 51020,
+    "DiskFree": 68.55,
+    "DiskRead": 0.65,
+    "DiskWrite": 5.2,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 589223.32
+  },
+  "PDCAlA02": {
+    "CPU": 7.83,
+    "Memory": "N/A",
+    "DiskFree": "N/A",
+    "DiskRead": "N/A",
+    "DiskWrite": "N/A",
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 2499506854.56
+  },
+  "PDCRNADB01.senderrarx.local": {
+    "CPU": 5.06,
+    "Memory": 30370,
+    "DiskFree": 49.25,
+    "DiskRead": 4.76,
+    "DiskWrite": 47.92,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 108848.87
+  },
+  "PDCHelixApp01.senderrarx.local": {
+    "CPU": 4.48,
+    "Memory": 11700,
+    "DiskFree": 48.75,
+    "DiskRead": 4.8,
+    "DiskWrite": 6.6,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 96776.75
+  },
+  "PDCATS01.senderrarx.local": {
+    "CPU": 15.6,
+    "Memory": 16653.33,
+    "DiskFree": 27.71,
+    "DiskRead": 0.31,
+    "DiskWrite": 7.46,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 103833.66
+  },
+  "pussccpsql01.senderrarx.local": {
+    "CPU": 9.3,
+    "Memory": 99403.67,
+    "DiskFree": 71.29,
+    "DiskRead": 7.01,
+    "DiskWrite": 26.16,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 434743.49
+  },
+  "PDCAPI01.senderrarx.local": {
+    "CPU": 4.64,
+    "Memory": 21710.33,
+    "DiskFree": 25.16,
+    "DiskRead": 0.65,
+    "DiskWrite": 7.08,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 3087.63
+  },
+  "pussccpweb02.senderrarx.local": {
+    "CPU": 9.28,
+    "Memory": 52410.5,
+    "DiskFree": 57.94,
+    "DiskRead": 0.15,
+    "DiskWrite": 4.48,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 478023.62
+  },
+  "pusscitftp01.senderrarx.local": {
+    "CPU": 11.92,
+    "Memory": 3465,
+    "DiskFree": 88.68,
+    "DiskRead": 0.21,
+    "DiskWrite": 4.63,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 825808.54
+  },
+  "PDCCPFS01.senderrarx.local": {
+    "CPU": 3.6,
+    "Memory": 56297,
+    "DiskFree": 42.24,
+    "DiskRead": 61.84,
+    "DiskWrite": 16.07,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 694399.2
+  }
+}
+{
+  "PDCBB01.senderrarx.local": {
+    "CPU": 3.1,
+    "Memory": 1198,
+    "DiskFree": 53.95,
+    "DiskRead": 0.22,
+    "DiskWrite": 2.01,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 24789.8
+  },
+  "pussccpweb01.senderrarx.local": {
+    "CPU": 8.72,
+    "Memory": 53116,
+    "DiskFree": 67.96,
+    "DiskRead": 1.71,
+    "DiskWrite": 6.6,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 191273.39
+  },
+  "pusscdwsql01.senderrarx.local": {
+    "CPU": 29.02,
+    "Memory": 24746,
+    "DiskFree": 68.87,
+    "DiskRead": 173.06,
+    "DiskWrite": 4.92,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 220378.08
+  },
+  "PDCData.senderrarx.local": {
+    "CPU": 10.05,
+    "Memory": 4383.5,
+    "DiskFree": 78,
+    "DiskRead": 0.05,
+    "DiskWrite": 2.65,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 21522.99
+  },
+  "pusscdocweb02.senderrarx.local": {
+    "CPU": 2.36,
+    "Memory": 24590.33,
+    "DiskFree": 81.57,
+    "DiskRead": 7.29,
+    "DiskWrite": 3.53,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 68469
+  },
+  "pussccpweb04.senderrarx.local": {
+    "CPU": 14.53,
+    "Memory": 51618,
+    "DiskFree": 75.71,
+    "DiskRead": 0.1,
+    "DiskWrite": 4.56,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 240831.19
+  },
+  "pusscdocweb01.senderrarx.local": {
+    "CPU": 1.2,
+    "Memory": 23963,
+    "DiskFree": 81.27,
+    "DiskRead": 8.32,
+    "DiskWrite": 3.5,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 60763.18
+  },
+  "PDCPrint1901.senderrarx.local": {
+    "CPU": 8.93,
+    "Memory": 7552,
+    "DiskFree": 20.39,
+    "DiskRead": 0.26,
+    "DiskWrite": 16.34,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 14876.74
+  },
+  "PDCEMR01.senderrarx.local": {
+    "CPU": 0.4,
+    "Memory": 12974.5,
+    "DiskFree": 82.7,
+    "DiskRead": 0.01,
+    "DiskWrite": 2.55,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 12534.26
+  },
+  "pussccpweb03.senderrarx.local": {
+    "CPU": 17.56,
+    "Memory": 51020,
+    "DiskFree": 68.55,
+    "DiskRead": 0.65,
+    "DiskWrite": 5.2,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 589223.32
+  },
+  "PDCAlA02": {
+    "CPU": 7.83,
+    "Memory": "N/A",
+    "DiskFree": "N/A",
+    "DiskRead": "N/A",
+    "DiskWrite": "N/A",
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 2499506854.56
+  },
+  "PDCRNADB01.senderrarx.local": {
+    "CPU": 5.06,
+    "Memory": 30370,
+    "DiskFree": 49.25,
+    "DiskRead": 4.76,
+    "DiskWrite": 47.92,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 108848.87
+  },
+  "PDCHelixApp01.senderrarx.local": {
+    "CPU": 4.48,
+    "Memory": 11700,
+    "DiskFree": 48.75,
+    "DiskRead": 4.8,
+    "DiskWrite": 6.6,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 96776.75
+  },
+  "PDCATS01.senderrarx.local": {
+    "CPU": 15.6,
+    "Memory": 16653.33,
+    "DiskFree": 27.71,
+    "DiskRead": 0.31,
+    "DiskWrite": 7.46,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 103833.66
+  },
+  "pussccpsql01.senderrarx.local": {
+    "CPU": 9.3,
+    "Memory": 99403.67,
+    "DiskFree": 71.29,
+    "DiskRead": 7.01,
+    "DiskWrite": 26.16,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 434743.49
+  },
+  "PDCAPI01.senderrarx.local": {
+    "CPU": 4.64,
+    "Memory": 21710.33,
+    "DiskFree": 25.16,
+    "DiskRead": 0.65,
+    "DiskWrite": 7.08,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 3087.63
+  },
+  "pussccpweb02.senderrarx.local": {
+    "CPU": 9.28,
+    "Memory": 52410.5,
+    "DiskFree": 57.94,
+    "DiskRead": 0.15,
+    "DiskWrite": 4.48,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 478023.62
+  },
+  "pusscitftp01.senderrarx.local": {
+    "CPU": 11.92,
+    "Memory": 3465,
+    "DiskFree": 88.68,
+    "DiskRead": 0.21,
+    "DiskWrite": 4.63,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 825808.54
+  },
+  "PDCCPFS01.senderrarx.local": {
+    "CPU": 3.6,
+    "Memory": 56297,
+    "DiskFree": 42.24,
+    "DiskRead": 61.84,
+    "DiskWrite": 16.07,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 694399.2
+  }
+}
+{
+  "PDCCPFS01.senderrarx.local": {
+    "CPU": 1.01,
+    "Memory": 56191.25,
+    "DiskFree": 42.23,
+    "DiskRead": 4.82,
+    "DiskWrite": 16.55,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 725988.07
+  },
+  "PDCData.senderrarx.local": {
+    "CPU": 2.87,
+    "Memory": 4333.6,
+    "DiskFree": 78.01,
+    "DiskRead": 0.47,
+    "DiskWrite": 3.55,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 32774.94
+  },
+  "PDCAPI01.senderrarx.local": {
+    "CPU": 1.53,
+    "Memory": 22393,
+    "DiskFree": 25.13,
+    "DiskRead": 0.18,
+    "DiskWrite": 6,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 3506.57
+  },
+  "pussccpweb04.senderrarx.local": {
+    "CPU": 16.29,
+    "Memory": 51497,
+    "DiskFree": 75.7,
+    "DiskRead": 0.48,
+    "DiskWrite": 7.43,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 405872.38
+  },
+  "pussccpsql01.senderrarx.local": {
+    "CPU": 9.95,
+    "Memory": 99433,
+    "DiskFree": 71.29,
+    "DiskRead": 10.03,
+    "DiskWrite": 24.22,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 439566.67
+  },
+  "PDCHelixApp01.senderrarx.local": {
+    "CPU": 5.75,
+    "Memory": 11817,
+    "DiskFree": 48.75,
+    "DiskRead": 4.81,
+    "DiskWrite": 6.15,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 93576.02
+  },
+  "pussccpweb01.senderrarx.local": {
+    "CPU": 17.76,
+    "Memory": 52169.5,
+    "DiskFree": 67.93,
+    "DiskRead": 0.72,
+    "DiskWrite": 5.48,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 277332.78
+  },
+  "pusscdocweb01.senderrarx.local": {
+    "CPU": 1.75,
+    "Memory": 23988.75,
+    "DiskFree": 81.27,
+    "DiskRead": 0.03,
+    "DiskWrite": 4.1,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 49339.35
+  },
+  "PDCEMR01.senderrarx.local": {
+    "CPU": 6.49,
+    "Memory": 12417,
+    "DiskFree": 82.69,
+    "DiskRead": 0.01,
+    "DiskWrite": 6.4,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 22109.69
+  },
+  "pussccpweb03.senderrarx.local": {
+    "CPU": 12.9,
+    "Memory": 51750,
+    "DiskFree": 68.52,
+    "DiskRead": 6.3,
+    "DiskWrite": 5.41,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 932110.51
+  },
+  "PDCPrint1901.senderrarx.local": {
+    "CPU": 9.04,
+    "Memory": 7714,
+    "DiskFree": 20.41,
+    "DiskRead": 0.41,
+    "DiskWrite": 17.26,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 34775.85
+  },
+  "pusscitftp01.senderrarx.local": {
+    "CPU": 4.17,
+    "Memory": 3333,
+    "DiskFree": 88.68,
+    "DiskRead": 0.22,
+    "DiskWrite": 3.28,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 184762.84
+  },
+  "PDCATS01.senderrarx.local": {
+    "CPU": 15.58,
+    "Memory": 16229,
+    "DiskFree": 27.68,
+    "DiskRead": 3.58,
+    "DiskWrite": 5.79,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 106334.77
+  },
+  "PDCBB01.senderrarx.local": {
+    "CPU": 3.72,
+    "Memory": 1157.25,
+    "DiskFree": 53.96,
+    "DiskRead": 0.19,
+    "DiskWrite": 1.58,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 36453.45
+  },
+  "PDCAlA02": {
+    "CPU": 13.67,
+    "Memory": "N/A",
+    "DiskFree": "N/A",
+    "DiskRead": "N/A",
+    "DiskWrite": "N/A",
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 232413374.66
+  },
+  "pusscdwsql01.senderrarx.local": {
+    "CPU": 22.06,
+    "Memory": 24799,
+    "DiskFree": 68.87,
+    "DiskRead": 850.62,
+    "DiskWrite": 120.01,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 218919.34
+  },
+  "pussccpweb02.senderrarx.local": {
+    "CPU": 10,
+    "Memory": 51223,
+    "DiskFree": 57.93,
+    "DiskRead": 0.56,
+    "DiskWrite": 5.13,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 382960.81
+  },
+  "pusscdocweb02.senderrarx.local": {
+    "CPU": 1.46,
+    "Memory": 24634,
+    "DiskFree": 81.57,
+    "DiskRead": 0.06,
+    "DiskWrite": 3.08,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 84737.75
+  },
+  "PDCRNADB01.senderrarx.local": {
+    "CPU": 4.77,
+    "Memory": 30021,
+    "DiskFree": 49.24,
+    "DiskRead": 2.51,
+    "DiskWrite": 51.33,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 103999.44
+  }
+}
+{
+  "PDCCPFS01.senderrarx.local": {
+    "CPU": 1.01,
+    "Memory": 56191.25,
+    "DiskFree": 42.23,
+    "DiskRead": 4.82,
+    "DiskWrite": 16.55,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 725988.07
+  },
+  "PDCData.senderrarx.local": {
+    "CPU": 2.87,
+    "Memory": 4333.6,
+    "DiskFree": 78.01,
+    "DiskRead": 0.47,
+    "DiskWrite": 3.55,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 32774.94
+  },
+  "PDCAPI01.senderrarx.local": {
+    "CPU": 1.53,
+    "Memory": 22393,
+    "DiskFree": 25.13,
+    "DiskRead": 0.18,
+    "DiskWrite": 6,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 3506.57
+  },
+  "pussccpweb04.senderrarx.local": {
+    "CPU": 16.29,
+    "Memory": 51497,
+    "DiskFree": 75.7,
+    "DiskRead": 0.48,
+    "DiskWrite": 7.43,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 405872.38
+  },
+  "pussccpsql01.senderrarx.local": {
+    "CPU": 9.95,
+    "Memory": 99433,
+    "DiskFree": 71.29,
+    "DiskRead": 10.03,
+    "DiskWrite": 24.22,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 439566.67
+  },
+  "PDCHelixApp01.senderrarx.local": {
+    "CPU": 5.75,
+    "Memory": 11817,
+    "DiskFree": 48.75,
+    "DiskRead": 4.81,
+    "DiskWrite": 6.15,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 93576.02
+  },
+  "pussccpweb01.senderrarx.local": {
+    "CPU": 17.76,
+    "Memory": 52169.5,
+    "DiskFree": 67.93,
+    "DiskRead": 0.72,
+    "DiskWrite": 5.48,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 277332.78
+  },
+  "pusscdocweb01.senderrarx.local": {
+    "CPU": 1.75,
+    "Memory": 23988.75,
+    "DiskFree": 81.27,
+    "DiskRead": 0.03,
+    "DiskWrite": 4.1,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 49339.35
+  },
+  "PDCEMR01.senderrarx.local": {
+    "CPU": 6.49,
+    "Memory": 12417,
+    "DiskFree": 82.69,
+    "DiskRead": 0.01,
+    "DiskWrite": 6.4,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 22109.69
+  },
+  "pussccpweb03.senderrarx.local": {
+    "CPU": 12.9,
+    "Memory": 51750,
+    "DiskFree": 68.52,
+    "DiskRead": 6.3,
+    "DiskWrite": 5.41,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 932110.51
+  },
+  "PDCPrint1901.senderrarx.local": {
+    "CPU": 9.04,
+    "Memory": 7714,
+    "DiskFree": 20.41,
+    "DiskRead": 0.41,
+    "DiskWrite": 17.26,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 34775.85
+  },
+  "pusscitftp01.senderrarx.local": {
+    "CPU": 4.17,
+    "Memory": 3333,
+    "DiskFree": 88.68,
+    "DiskRead": 0.22,
+    "DiskWrite": 3.28,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 184762.84
+  },
+  "PDCATS01.senderrarx.local": {
+    "CPU": 15.58,
+    "Memory": 16229,
+    "DiskFree": 27.68,
+    "DiskRead": 3.58,
+    "DiskWrite": 5.79,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 106334.77
+  },
+  "PDCBB01.senderrarx.local": {
+    "CPU": 3.72,
+    "Memory": 1157.25,
+    "DiskFree": 53.96,
+    "DiskRead": 0.19,
+    "DiskWrite": 1.58,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 36453.45
+  },
+  "PDCAlA02": {
+    "CPU": 13.67,
+    "Memory": "N/A",
+    "DiskFree": "N/A",
+    "DiskRead": "N/A",
+    "DiskWrite": "N/A",
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 232413374.66
+  },
+  "pusscdwsql01.senderrarx.local": {
+    "CPU": 22.06,
+    "Memory": 24799,
+    "DiskFree": 68.87,
+    "DiskRead": 850.62,
+    "DiskWrite": 120.01,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 218919.34
+  },
+  "pussccpweb02.senderrarx.local": {
+    "CPU": 10,
+    "Memory": 51223,
+    "DiskFree": 57.93,
+    "DiskRead": 0.56,
+    "DiskWrite": 5.13,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 382960.81
+  },
+  "pusscdocweb02.senderrarx.local": {
+    "CPU": 1.46,
+    "Memory": 24634,
+    "DiskFree": 81.57,
+    "DiskRead": 0.06,
+    "DiskWrite": 3.08,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 84737.75
+  },
+  "PDCRNADB01.senderrarx.local": {
+    "CPU": 4.77,
+    "Memory": 30021,
+    "DiskFree": 49.24,
+    "DiskRead": 2.51,
+    "DiskWrite": 51.33,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 103999.44
+  }
+}
+{
+  "PDCAPI01.senderrarx.local": {
+    "CPU": 3.35,
+    "Memory": 18050,
+    "DiskFree": 25.12,
+    "DiskRead": 0.33,
+    "DiskWrite": 6.1,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 4956.48
+  },
+  "PDCPrint1901.senderrarx.local": {
+    "CPU": 20.47,
+    "Memory": 7571,
+    "DiskFree": 20.33,
+    "DiskRead": 12.43,
+    "DiskWrite": 23.28,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 138449.69
+  },
+  "pussccpweb03.senderrarx.local": {
+    "CPU": 17.03,
+    "Memory": 50985,
+    "DiskFree": 68.44,
+    "DiskRead": 1.18,
+    "DiskWrite": 6.06,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 802230.36
+  },
+  "PDCATS01.senderrarx.local": {
+    "CPU": 13.37,
+    "Memory": 16627,
+    "DiskFree": 27.68,
+    "DiskRead": 0.16,
+    "DiskWrite": 6.53,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 113091.99
+  },
+  "pusscdocweb02.senderrarx.local": {
+    "CPU": 1.09,
+    "Memory": 24744.5,
+    "DiskFree": 81.58,
+    "DiskRead": 4.58,
+    "DiskWrite": 2.98,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 39111.87
+  },
+  "PDCRNADB01.senderrarx.local": {
+    "CPU": 7.16,
+    "Memory": 30198,
+    "DiskFree": 49.21,
+    "DiskRead": 4.03,
+    "DiskWrite": 106.13,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 167754.59
+  },
+  "pussccpweb04.senderrarx.local": {
+    "CPU": 12.56,
+    "Memory": 50625,
+    "DiskFree": 75.6,
+    "DiskRead": 0.33,
+    "DiskWrite": 6.05,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 587439.71
+  },
+  "PDCData.senderrarx.local": {
+    "CPU": 10.01,
+    "Memory": 4325,
+    "DiskFree": 78.01,
+    "DiskRead": 0.01,
+    "DiskWrite": 19.51,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 21917.99
+  },
+  "PDCHelixApp01.senderrarx.local": {
+    "CPU": 6.37,
+    "Memory": 11712,
+    "DiskFree": 48.77,
+    "DiskRead": 8.71,
+    "DiskWrite": 6.27,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 117623.15
+  },
+  "pusscdocweb01.senderrarx.local": {
+    "CPU": 1.53,
+    "Memory": 23604,
+    "DiskFree": 81.27,
+    "DiskRead": 0.03,
+    "DiskWrite": 4.26,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 30094.97
+  },
+  "PDCEMR01.senderrarx.local": {
+    "CPU": 4.01,
+    "Memory": 12704,
+    "DiskFree": 82.7,
+    "DiskRead": 0.05,
+    "DiskWrite": 4.54,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 12983.84
+  },
+  "pussccpweb01.senderrarx.local": {
+    "CPU": 16.93,
+    "Memory": 51277,
+    "DiskFree": 67.84,
+    "DiskRead": 0.14,
+    "DiskWrite": 6.45,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 410716.85
+  },
+  "PDCBB01.senderrarx.local": {
+    "CPU": 1.44,
+    "Memory": 1261,
+    "DiskFree": 53.96,
+    "DiskRead": 0.26,
+    "DiskWrite": 2,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 26467.37
+  },
+  "PDCCPFS01.senderrarx.local": {
+    "CPU": 1.8,
+    "Memory": 55969,
+    "DiskFree": 42.21,
+    "DiskRead": 3.06,
+    "DiskWrite": 25.94,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 1127991.2
+  },
+  "pusscitftp01.senderrarx.local": {
+    "CPU": 6.37,
+    "Memory": 3487,
+    "DiskFree": 88.67,
+    "DiskRead": 0.17,
+    "DiskWrite": 3.41,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 372709.79
+  },
+  "pussccpweb02.senderrarx.local": {
+    "CPU": 15.92,
+    "Memory": 52541,
+    "DiskFree": 57.87,
+    "DiskRead": 0.27,
+    "DiskWrite": 5.38,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 494295.92
+  },
+  "pussccpsql01.senderrarx.local": {
+    "CPU": 13.55,
+    "Memory": 99059,
+    "DiskFree": 71.29,
+    "DiskRead": 9.57,
+    "DiskWrite": 33.53,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 1809740.91
+  },
+  "PDCAlA02": {
+    "CPU": 5,
+    "Memory": "N/A",
+    "DiskFree": "N/A",
+    "DiskRead": "N/A",
+    "DiskWrite": "N/A",
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 2143687080.6
+  },
+  "pusscdwsql01.senderrarx.local": {
+    "CPU": 5.89,
+    "Memory": 23937,
+    "DiskFree": 68.88,
+    "DiskRead": 78.42,
+    "DiskWrite": 3.7,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 1764687.56
+  }
+}
+{
+  "PDCAPI01.senderrarx.local": {
+    "CPU": 3.35,
+    "Memory": 18050,
+    "DiskFree": 25.12,
+    "DiskRead": 0.33,
+    "DiskWrite": 6.1,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 4956.48
+  },
+  "PDCPrint1901.senderrarx.local": {
+    "CPU": 20.47,
+    "Memory": 7571,
+    "DiskFree": 20.33,
+    "DiskRead": 12.43,
+    "DiskWrite": 23.28,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 138449.69
+  },
+  "pussccpweb03.senderrarx.local": {
+    "CPU": 17.03,
+    "Memory": 50985,
+    "DiskFree": 68.44,
+    "DiskRead": 1.18,
+    "DiskWrite": 6.06,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 802230.36
+  },
+  "PDCATS01.senderrarx.local": {
+    "CPU": 13.37,
+    "Memory": 16627,
+    "DiskFree": 27.68,
+    "DiskRead": 0.16,
+    "DiskWrite": 6.53,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 113091.99
+  },
+  "pusscdocweb02.senderrarx.local": {
+    "CPU": 1.09,
+    "Memory": 24744.5,
+    "DiskFree": 81.58,
+    "DiskRead": 4.58,
+    "DiskWrite": 2.98,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 39111.87
+  },
+  "PDCRNADB01.senderrarx.local": {
+    "CPU": 7.16,
+    "Memory": 30198,
+    "DiskFree": 49.21,
+    "DiskRead": 4.03,
+    "DiskWrite": 106.13,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 167754.59
+  },
+  "pussccpweb04.senderrarx.local": {
+    "CPU": 12.56,
+    "Memory": 50625,
+    "DiskFree": 75.6,
+    "DiskRead": 0.33,
+    "DiskWrite": 6.05,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 587439.71
+  },
+  "PDCData.senderrarx.local": {
+    "CPU": 10.01,
+    "Memory": 4325,
+    "DiskFree": 78.01,
+    "DiskRead": 0.01,
+    "DiskWrite": 19.51,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 21917.99
+  },
+  "PDCHelixApp01.senderrarx.local": {
+    "CPU": 6.37,
+    "Memory": 11712,
+    "DiskFree": 48.77,
+    "DiskRead": 8.71,
+    "DiskWrite": 6.27,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 117623.15
+  },
+  "pusscdocweb01.senderrarx.local": {
+    "CPU": 1.53,
+    "Memory": 23604,
+    "DiskFree": 81.27,
+    "DiskRead": 0.03,
+    "DiskWrite": 4.26,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 30094.97
+  },
+  "PDCEMR01.senderrarx.local": {
+    "CPU": 4.01,
+    "Memory": 12704,
+    "DiskFree": 82.7,
+    "DiskRead": 0.05,
+    "DiskWrite": 4.54,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 12983.84
+  },
+  "pussccpweb01.senderrarx.local": {
+    "CPU": 16.93,
+    "Memory": 51277,
+    "DiskFree": 67.84,
+    "DiskRead": 0.14,
+    "DiskWrite": 6.45,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 410716.85
+  },
+  "PDCBB01.senderrarx.local": {
+    "CPU": 1.44,
+    "Memory": 1261,
+    "DiskFree": 53.96,
+    "DiskRead": 0.26,
+    "DiskWrite": 2,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 26467.37
+  },
+  "PDCCPFS01.senderrarx.local": {
+    "CPU": 1.8,
+    "Memory": 55969,
+    "DiskFree": 42.21,
+    "DiskRead": 3.06,
+    "DiskWrite": 25.94,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 1127991.2
+  },
+  "pusscitftp01.senderrarx.local": {
+    "CPU": 6.37,
+    "Memory": 3487,
+    "DiskFree": 88.67,
+    "DiskRead": 0.17,
+    "DiskWrite": 3.41,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 372709.79
+  },
+  "pussccpweb02.senderrarx.local": {
+    "CPU": 15.92,
+    "Memory": 52541,
+    "DiskFree": 57.87,
+    "DiskRead": 0.27,
+    "DiskWrite": 5.38,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 494295.92
+  },
+  "pussccpsql01.senderrarx.local": {
+    "CPU": 13.55,
+    "Memory": 99059,
+    "DiskFree": 71.29,
+    "DiskRead": 9.57,
+    "DiskWrite": 33.53,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 1809740.91
+  },
+  "PDCAlA02": {
+    "CPU": 5,
+    "Memory": "N/A",
+    "DiskFree": "N/A",
+    "DiskRead": "N/A",
+    "DiskWrite": "N/A",
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 2143687080.6
+  },
+  "pusscdwsql01.senderrarx.local": {
+    "CPU": 5.89,
+    "Memory": 23937,
+    "DiskFree": 68.88,
+    "DiskRead": 78.42,
+    "DiskWrite": 3.7,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 1764687.56
+  }
+}
+{
+  "pusscdocweb01.senderrarx.local": {
+    "CPU": 1.75,
+    "Memory": 23583.25,
+    "DiskFree": 81.26,
+    "DiskRead": 2.23,
+    "DiskWrite": 5.15,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 56210.56
+  },
+  "pussccpweb03.senderrarx.local": {
+    "CPU": 18.13,
+    "Memory": 51255.25,
+    "DiskFree": 68.44,
+    "DiskRead": 0.29,
+    "DiskWrite": 5.71,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 489613
+  },
+  "pussccpweb02.senderrarx.local": {
+    "CPU": 20.67,
+    "Memory": 51461,
+    "DiskFree": 57.87,
+    "DiskRead": 0.46,
+    "DiskWrite": 6.93,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 587388.73
+  },
+  "PDCEMR01.senderrarx.local": {
+    "CPU": 0.97,
+    "Memory": 12670.75,
+    "DiskFree": 82.69,
+    "DiskRead": 0.09,
+    "DiskWrite": 2.96,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 12690.29
+  },
+  "PDCData.senderrarx.local": {
+    "CPU": 17.09,
+    "Memory": 4323,
+    "DiskFree": 78.01,
+    "DiskRead": 25.65,
+    "DiskWrite": 9.2,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 23717.84
+  },
+  "PDCHelixApp01.senderrarx.local": {
+    "CPU": 7.3,
+    "Memory": 11749.67,
+    "DiskFree": 48.77,
+    "DiskRead": 9.27,
+    "DiskWrite": 6.5,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 74451.12
+  },
+  "pusscdwsql01.senderrarx.local": {
+    "CPU": 6.22,
+    "Memory": 23949.75,
+    "DiskFree": 68.88,
+    "DiskRead": 104.53,
+    "DiskWrite": 4.98,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 1821431.43
+  },
+  "PDCATS01.senderrarx.local": {
+    "CPU": 12.39,
+    "Memory": 16648.75,
+    "DiskFree": 27.68,
+    "DiskRead": 0.45,
+    "DiskWrite": 7.86,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 92582.89
+  },
+  "PDCBB01.senderrarx.local": {
+    "CPU": 2.06,
+    "Memory": 1229.67,
+    "DiskFree": 53.96,
+    "DiskRead": 0.18,
+    "DiskWrite": 2.16,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 23188.04
+  },
+  "pussccpweb04.senderrarx.local": {
+    "CPU": 16.51,
+    "Memory": 51145.33,
+    "DiskFree": 75.6,
+    "DiskRead": 0.96,
+    "DiskWrite": 6.42,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 445520.17
+  },
+  "pussccpweb01.senderrarx.local": {
+    "CPU": 13.81,
+    "Memory": 52903,
+    "DiskFree": 67.83,
+    "DiskRead": 1.55,
+    "DiskWrite": 5.78,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 510559.19
+  },
+  "PDCCPFS01.senderrarx.local": {
+    "CPU": 3.12,
+    "Memory": 56014,
+    "DiskFree": 42.21,
+    "DiskRead": 81.54,
+    "DiskWrite": 24.98,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 946694.76
+  },
+  "PDCPrint1901.senderrarx.local": {
+    "CPU": 7.6,
+    "Memory": 7807.33,
+    "DiskFree": 20.35,
+    "DiskRead": 0.3,
+    "DiskWrite": 13.29,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 33313.63
+  },
+  "pussccpsql01.senderrarx.local": {
+    "CPU": 13.23,
+    "Memory": 99012.25,
+    "DiskFree": 71.29,
+    "DiskRead": 8.32,
+    "DiskWrite": 34.63,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 1865612.39
+  },
+  "PDCAPI01.senderrarx.local": {
+    "CPU": 8.68,
+    "Memory": 18105.25,
+    "DiskFree": 25.12,
+    "DiskRead": 0.33,
+    "DiskWrite": 8.73,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 4315.45
+  },
+  "PDCAlA02": {
+    "CPU": 6.75,
+    "Memory": "N/A",
+    "DiskFree": "N/A",
+    "DiskRead": "N/A",
+    "DiskWrite": "N/A",
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 2757885750.08
+  },
+  "pusscitftp01.senderrarx.local": {
+    "CPU": 3.16,
+    "Memory": 3392.25,
+    "DiskFree": 88.67,
+    "DiskRead": 0.16,
+    "DiskWrite": 3.32,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 19809.42
+  },
+  "pusscdocweb02.senderrarx.local": {
+    "CPU": 1.91,
+    "Memory": 24704.75,
+    "DiskFree": 81.58,
+    "DiskRead": 3.46,
+    "DiskWrite": 4.21,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 67559.89
+  },
+  "PDCRNADB01.senderrarx.local": {
+    "CPU": 8.81,
+    "Memory": 30140.75,
+    "DiskFree": 49.21,
+    "DiskRead": 4.9,
+    "DiskWrite": 113.35,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 177240.33
+  }
+}
+{
+  "pusscdocweb02.senderrarx.local": {
+    "CPU": 0.85,
+    "Memory": 24715,
+    "DiskFree": 81.58,
+    "DiskRead": 0.04,
+    "DiskWrite": 3.96,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 48660.12
+  },
+  "PDCHelixApp01.senderrarx.local": {
+    "CPU": 6.6,
+    "Memory": 11753,
+    "DiskFree": 48.77,
+    "DiskRead": 8.82,
+    "DiskWrite": 6.34,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 33048.17
+  },
+  "pusscdwsql01.senderrarx.local": {
+    "CPU": 4.9,
+    "Memory": 24004,
+    "DiskFree": 68.87,
+    "DiskRead": 203.48,
+    "DiskWrite": 4.36,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 1898479.63
+  },
+  "PDCATS01.senderrarx.local": {
+    "CPU": 6.88,
+    "Memory": 16630,
+    "DiskFree": 27.68,
+    "DiskRead": 0.35,
+    "DiskWrite": 10.41,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 85374.72
+  },
+  "PDCAPI01.senderrarx.local": {
+    "CPU": 8.89,
+    "Memory": 18075,
+    "DiskFree": 25.12,
+    "DiskRead": 0.23,
+    "DiskWrite": 7.86,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 2616.5
+  },
+  "PDCBB01.senderrarx.local": {
+    "CPU": 1.28,
+    "Memory": 1230,
+    "DiskFree": 53.96,
+    "DiskRead": 0.23,
+    "DiskWrite": 2.02,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 20726.83
+  },
+  "PDCData.senderrarx.local": {
+    "CPU": 3.4,
+    "Memory": 4453,
+    "DiskFree": 78.01,
+    "DiskRead": 0.06,
+    "DiskWrite": 6.82,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 21429.23
+  },
+  "pussccpweb03.senderrarx.local": {
+    "CPU": 19.43,
+    "Memory": 51184,
+    "DiskFree": 68.44,
+    "DiskRead": 0.36,
+    "DiskWrite": 5.98,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 500214.95
+  },
+  "pusscitftp01.senderrarx.local": {
+    "CPU": 5.42,
+    "Memory": 3292.5,
+    "DiskFree": 88.67,
+    "DiskRead": 0.24,
+    "DiskWrite": 4.48,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 19968.66
+  },
+  "pussccpweb04.senderrarx.local": {
+    "CPU": 17.74,
+    "Memory": 51256,
+    "DiskFree": 75.6,
+    "DiskRead": 0.86,
+    "DiskWrite": 6.83,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 429451.38
+  },
+  "PDCEMR01.senderrarx.local": {
+    "CPU": 0.72,
+    "Memory": 12677,
+    "DiskFree": 82.69,
+    "DiskRead": 0.01,
+    "DiskWrite": 2.55,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 12833.68
+  },
+  "PDCAlA02": {
+    "CPU": 7,
+    "Memory": "N/A",
+    "DiskFree": "N/A",
+    "DiskRead": "N/A",
+    "DiskWrite": "N/A",
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 2144220629.49
+  },
+  "pussccpsql01.senderrarx.local": {
+    "CPU": 13.36,
+    "Memory": 99018,
+    "DiskFree": 71.29,
+    "DiskRead": 10.27,
+    "DiskWrite": 35.85,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 1874315.69
+  },
+  "PDCCPFS01.senderrarx.local": {
+    "CPU": 1.48,
+    "Memory": 56200,
+    "DiskFree": 42.21,
+    "DiskRead": 8.08,
+    "DiskWrite": 32.91,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 1060697.97
+  },
+  "pusscdocweb01.senderrarx.local": {
+    "CPU": 3.5,
+    "Memory": 23595,
+    "DiskFree": 81.26,
+    "DiskRead": 0.24,
+    "DiskWrite": 6.81,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 75853.1
+  },
+  "pussccpweb02.senderrarx.local": {
+    "CPU": 15.38,
+    "Memory": 51065,
+    "DiskFree": 57.87,
+    "DiskRead": 0.33,
+    "DiskWrite": 5.14,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 496647.27
+  },
+  "PDCRNADB01.senderrarx.local": {
+    "CPU": 9.05,
+    "Memory": 30195,
+    "DiskFree": 49.21,
+    "DiskRead": 4.48,
+    "DiskWrite": 101.87,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 164296.22
+  },
+  "pussccpweb01.senderrarx.local": {
+    "CPU": 14.5,
+    "Memory": 51844,
+    "DiskFree": 67.83,
+    "DiskRead": 1.55,
+    "DiskWrite": 5.39,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 830608.05
+  },
+  "PDCPrint1901.senderrarx.local": {
+    "CPU": 7.38,
+    "Memory": 7773,
+    "DiskFree": 20.35,
+    "DiskRead": 0.24,
+    "DiskWrite": 11.42,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 22008.43
+  }
+}
+{
+  "pusscdocweb02.senderrarx.local": {
+    "CPU": 0.85,
+    "Memory": 24715,
+    "DiskFree": 81.58,
+    "DiskRead": 0.04,
+    "DiskWrite": 3.96,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 48660.12
+  },
+  "PDCHelixApp01.senderrarx.local": {
+    "CPU": 6.6,
+    "Memory": 11753,
+    "DiskFree": 48.77,
+    "DiskRead": 8.82,
+    "DiskWrite": 6.34,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 33048.17
+  },
+  "pusscdwsql01.senderrarx.local": {
+    "CPU": 4.9,
+    "Memory": 24004,
+    "DiskFree": 68.87,
+    "DiskRead": 203.48,
+    "DiskWrite": 4.36,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 1898479.63
+  },
+  "PDCATS01.senderrarx.local": {
+    "CPU": 6.88,
+    "Memory": 16630,
+    "DiskFree": 27.68,
+    "DiskRead": 0.35,
+    "DiskWrite": 10.41,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 85374.72
+  },
+  "PDCAPI01.senderrarx.local": {
+    "CPU": 8.89,
+    "Memory": 18075,
+    "DiskFree": 25.12,
+    "DiskRead": 0.23,
+    "DiskWrite": 7.86,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 2616.5
+  },
+  "PDCBB01.senderrarx.local": {
+    "CPU": 1.28,
+    "Memory": 1230,
+    "DiskFree": 53.96,
+    "DiskRead": 0.23,
+    "DiskWrite": 2.02,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 20726.83
+  },
+  "PDCData.senderrarx.local": {
+    "CPU": 3.4,
+    "Memory": 4453,
+    "DiskFree": 78.01,
+    "DiskRead": 0.06,
+    "DiskWrite": 6.82,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 21429.23
+  },
+  "pussccpweb03.senderrarx.local": {
+    "CPU": 19.43,
+    "Memory": 51184,
+    "DiskFree": 68.44,
+    "DiskRead": 0.36,
+    "DiskWrite": 5.98,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 500214.95
+  },
+  "pusscitftp01.senderrarx.local": {
+    "CPU": 5.42,
+    "Memory": 3292.5,
+    "DiskFree": 88.67,
+    "DiskRead": 0.24,
+    "DiskWrite": 4.48,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 19968.66
+  },
+  "pussccpweb04.senderrarx.local": {
+    "CPU": 17.74,
+    "Memory": 51256,
+    "DiskFree": 75.6,
+    "DiskRead": 0.86,
+    "DiskWrite": 6.83,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 429451.38
+  },
+  "PDCEMR01.senderrarx.local": {
+    "CPU": 0.72,
+    "Memory": 12677,
+    "DiskFree": 82.69,
+    "DiskRead": 0.01,
+    "DiskWrite": 2.55,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 12833.68
+  },
+  "PDCAlA02": {
+    "CPU": 7,
+    "Memory": "N/A",
+    "DiskFree": "N/A",
+    "DiskRead": "N/A",
+    "DiskWrite": "N/A",
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 2144220629.49
+  },
+  "pussccpsql01.senderrarx.local": {
+    "CPU": 13.36,
+    "Memory": 99018,
+    "DiskFree": 71.29,
+    "DiskRead": 10.27,
+    "DiskWrite": 35.85,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 1874315.69
+  },
+  "PDCCPFS01.senderrarx.local": {
+    "CPU": 1.48,
+    "Memory": 56200,
+    "DiskFree": 42.21,
+    "DiskRead": 8.08,
+    "DiskWrite": 32.91,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 1060697.97
+  },
+  "pusscdocweb01.senderrarx.local": {
+    "CPU": 3.5,
+    "Memory": 23595,
+    "DiskFree": 81.26,
+    "DiskRead": 0.24,
+    "DiskWrite": 6.81,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 75853.1
+  },
+  "pussccpweb02.senderrarx.local": {
+    "CPU": 15.38,
+    "Memory": 51065,
+    "DiskFree": 57.87,
+    "DiskRead": 0.33,
+    "DiskWrite": 5.14,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 496647.27
+  },
+  "PDCRNADB01.senderrarx.local": {
+    "CPU": 9.05,
+    "Memory": 30195,
+    "DiskFree": 49.21,
+    "DiskRead": 4.48,
+    "DiskWrite": 101.87,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 164296.22
+  },
+  "pussccpweb01.senderrarx.local": {
+    "CPU": 14.5,
+    "Memory": 51844,
+    "DiskFree": 67.83,
+    "DiskRead": 1.55,
+    "DiskWrite": 5.39,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 830608.05
+  },
+  "PDCPrint1901.senderrarx.local": {
+    "CPU": 7.38,
+    "Memory": 7773,
+    "DiskFree": 20.35,
+    "DiskRead": 0.24,
+    "DiskWrite": 11.42,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 22008.43
+  }
+}
+{
+  "pusscdocweb02.senderrarx.local": {
+    "CPU": 0.85,
+    "Memory": 24715,
+    "DiskFree": 81.58,
+    "DiskRead": 0.04,
+    "DiskWrite": 3.96,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 48660.12
+  },
+  "PDCHelixApp01.senderrarx.local": {
+    "CPU": 6.6,
+    "Memory": 11753,
+    "DiskFree": 48.77,
+    "DiskRead": 8.82,
+    "DiskWrite": 6.34,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 33048.17
+  },
+  "pusscdwsql01.senderrarx.local": {
+    "CPU": 4.9,
+    "Memory": 24004,
+    "DiskFree": 68.87,
+    "DiskRead": 203.48,
+    "DiskWrite": 4.36,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 1898479.63
+  },
+  "PDCATS01.senderrarx.local": {
+    "CPU": 6.88,
+    "Memory": 16630,
+    "DiskFree": 27.68,
+    "DiskRead": 0.35,
+    "DiskWrite": 10.41,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 85374.72
+  },
+  "PDCAPI01.senderrarx.local": {
+    "CPU": 8.89,
+    "Memory": 18075,
+    "DiskFree": 25.12,
+    "DiskRead": 0.23,
+    "DiskWrite": 7.86,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 2616.5
+  },
+  "PDCBB01.senderrarx.local": {
+    "CPU": 1.28,
+    "Memory": 1230,
+    "DiskFree": 53.96,
+    "DiskRead": 0.23,
+    "DiskWrite": 2.02,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 20726.83
+  },
+  "PDCData.senderrarx.local": {
+    "CPU": 3.4,
+    "Memory": 4453,
+    "DiskFree": 78.01,
+    "DiskRead": 0.06,
+    "DiskWrite": 6.82,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 21429.23
+  },
+  "pussccpweb03.senderrarx.local": {
+    "CPU": 19.43,
+    "Memory": 51184,
+    "DiskFree": 68.44,
+    "DiskRead": 0.36,
+    "DiskWrite": 5.98,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 500214.95
+  },
+  "pusscitftp01.senderrarx.local": {
+    "CPU": 5.42,
+    "Memory": 3292.5,
+    "DiskFree": 88.67,
+    "DiskRead": 0.24,
+    "DiskWrite": 4.48,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 19968.66
+  },
+  "pussccpweb04.senderrarx.local": {
+    "CPU": 17.74,
+    "Memory": 51256,
+    "DiskFree": 75.6,
+    "DiskRead": 0.86,
+    "DiskWrite": 6.83,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 429451.38
+  },
+  "PDCEMR01.senderrarx.local": {
+    "CPU": 0.72,
+    "Memory": 12677,
+    "DiskFree": 82.69,
+    "DiskRead": 0.01,
+    "DiskWrite": 2.55,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 12833.68
+  },
+  "PDCAlA02": {
+    "CPU": 7,
+    "Memory": "N/A",
+    "DiskFree": "N/A",
+    "DiskRead": "N/A",
+    "DiskWrite": "N/A",
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 2144220629.49
+  },
+  "pussccpsql01.senderrarx.local": {
+    "CPU": 13.36,
+    "Memory": 99018,
+    "DiskFree": 71.29,
+    "DiskRead": 10.27,
+    "DiskWrite": 35.85,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 1874315.69
+  },
+  "PDCCPFS01.senderrarx.local": {
+    "CPU": 1.48,
+    "Memory": 56200,
+    "DiskFree": 42.21,
+    "DiskRead": 8.08,
+    "DiskWrite": 32.91,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 1060697.97
+  },
+  "pusscdocweb01.senderrarx.local": {
+    "CPU": 3.5,
+    "Memory": 23595,
+    "DiskFree": 81.26,
+    "DiskRead": 0.24,
+    "DiskWrite": 6.81,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 75853.1
+  },
+  "pussccpweb02.senderrarx.local": {
+    "CPU": 15.38,
+    "Memory": 51065,
+    "DiskFree": 57.87,
+    "DiskRead": 0.33,
+    "DiskWrite": 5.14,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 496647.27
+  },
+  "PDCRNADB01.senderrarx.local": {
+    "CPU": 9.05,
+    "Memory": 30195,
+    "DiskFree": 49.21,
+    "DiskRead": 4.48,
+    "DiskWrite": 101.87,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 164296.22
+  },
+  "pussccpweb01.senderrarx.local": {
+    "CPU": 14.5,
+    "Memory": 51844,
+    "DiskFree": 67.83,
+    "DiskRead": 1.55,
+    "DiskWrite": 5.39,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 830608.05
+  },
+  "PDCPrint1901.senderrarx.local": {
+    "CPU": 7.38,
+    "Memory": 7773,
+    "DiskFree": 20.35,
+    "DiskRead": 0.24,
+    "DiskWrite": 11.42,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 22008.43
+  }
+}
+{
+  "pusscdocweb02.senderrarx.local": {
+    "CPU": 0.85,
+    "Memory": 24715,
+    "DiskFree": 81.58,
+    "DiskRead": 0.04,
+    "DiskWrite": 3.96,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 48660.12
+  },
+  "PDCHelixApp01.senderrarx.local": {
+    "CPU": 6.6,
+    "Memory": 11753,
+    "DiskFree": 48.77,
+    "DiskRead": 8.82,
+    "DiskWrite": 6.34,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 33048.17
+  },
+  "pusscdwsql01.senderrarx.local": {
+    "CPU": 4.9,
+    "Memory": 24004,
+    "DiskFree": 68.87,
+    "DiskRead": 203.48,
+    "DiskWrite": 4.36,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 1898479.63
+  },
+  "PDCATS01.senderrarx.local": {
+    "CPU": 6.88,
+    "Memory": 16630,
+    "DiskFree": 27.68,
+    "DiskRead": 0.35,
+    "DiskWrite": 10.41,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 85374.72
+  },
+  "PDCAPI01.senderrarx.local": {
+    "CPU": 8.89,
+    "Memory": 18075,
+    "DiskFree": 25.12,
+    "DiskRead": 0.23,
+    "DiskWrite": 7.86,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 2616.5
+  },
+  "PDCBB01.senderrarx.local": {
+    "CPU": 1.28,
+    "Memory": 1230,
+    "DiskFree": 53.96,
+    "DiskRead": 0.23,
+    "DiskWrite": 2.02,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 20726.83
+  },
+  "PDCData.senderrarx.local": {
+    "CPU": 3.4,
+    "Memory": 4453,
+    "DiskFree": 78.01,
+    "DiskRead": 0.06,
+    "DiskWrite": 6.82,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 21429.23
+  },
+  "pussccpweb03.senderrarx.local": {
+    "CPU": 19.43,
+    "Memory": 51184,
+    "DiskFree": 68.44,
+    "DiskRead": 0.36,
+    "DiskWrite": 5.98,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 500214.95
+  },
+  "pusscitftp01.senderrarx.local": {
+    "CPU": 5.42,
+    "Memory": 3292.5,
+    "DiskFree": 88.67,
+    "DiskRead": 0.24,
+    "DiskWrite": 4.48,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 19968.66
+  },
+  "pussccpweb04.senderrarx.local": {
+    "CPU": 17.74,
+    "Memory": 51256,
+    "DiskFree": 75.6,
+    "DiskRead": 0.86,
+    "DiskWrite": 6.83,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 429451.38
+  },
+  "PDCEMR01.senderrarx.local": {
+    "CPU": 0.72,
+    "Memory": 12677,
+    "DiskFree": 82.69,
+    "DiskRead": 0.01,
+    "DiskWrite": 2.55,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 12833.68
+  },
+  "PDCAlA02": {
+    "CPU": 7,
+    "Memory": "N/A",
+    "DiskFree": "N/A",
+    "DiskRead": "N/A",
+    "DiskWrite": "N/A",
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 2144220629.49
+  },
+  "pussccpsql01.senderrarx.local": {
+    "CPU": 13.36,
+    "Memory": 99018,
+    "DiskFree": 71.29,
+    "DiskRead": 10.27,
+    "DiskWrite": 35.85,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 1874315.69
+  },
+  "PDCCPFS01.senderrarx.local": {
+    "CPU": 1.48,
+    "Memory": 56200,
+    "DiskFree": 42.21,
+    "DiskRead": 8.08,
+    "DiskWrite": 32.91,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 1060697.97
+  },
+  "pusscdocweb01.senderrarx.local": {
+    "CPU": 3.5,
+    "Memory": 23595,
+    "DiskFree": 81.26,
+    "DiskRead": 0.24,
+    "DiskWrite": 6.81,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 75853.1
+  },
+  "pussccpweb02.senderrarx.local": {
+    "CPU": 15.38,
+    "Memory": 51065,
+    "DiskFree": 57.87,
+    "DiskRead": 0.33,
+    "DiskWrite": 5.14,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 496647.27
+  },
+  "PDCRNADB01.senderrarx.local": {
+    "CPU": 9.05,
+    "Memory": 30195,
+    "DiskFree": 49.21,
+    "DiskRead": 4.48,
+    "DiskWrite": 101.87,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 164296.22
+  },
+  "pussccpweb01.senderrarx.local": {
+    "CPU": 14.5,
+    "Memory": 51844,
+    "DiskFree": 67.83,
+    "DiskRead": 1.55,
+    "DiskWrite": 5.39,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 830608.05
+  },
+  "PDCPrint1901.senderrarx.local": {
+    "CPU": 7.38,
+    "Memory": 7773,
+    "DiskFree": 20.35,
+    "DiskRead": 0.24,
+    "DiskWrite": 11.42,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 22008.43
+  }
+}
+{
+  "PDCCPFS01.senderrarx.local": {
+    "CPU": 2.57,
+    "Memory": 56139.5,
+    "DiskFree": 42.21,
+    "DiskRead": 64.28,
+    "DiskWrite": 20.66,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 840984.27
+  },
+  "pusscdocweb02.senderrarx.local": {
+    "CPU": 1.13,
+    "Memory": 24682,
+    "DiskFree": 81.58,
+    "DiskRead": 9.67,
+    "DiskWrite": 3.02,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 60542
+  },
+  "PDCAPI01.senderrarx.local": {
+    "CPU": 8.78,
+    "Memory": 18059.75,
+    "DiskFree": 25.12,
+    "DiskRead": 0.37,
+    "DiskWrite": 8.04,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 11719.39
+  },
+  "PDCData.senderrarx.local": {
+    "CPU": 6.15,
+    "Memory": 4364,
+    "DiskFree": 78,
+    "DiskRead": 0.16,
+    "DiskWrite": 2.87,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 21586.57
+  },
+  "PDCRNADB01.senderrarx.local": {
+    "CPU": 8,
+    "Memory": 30181,
+    "DiskFree": 49.21,
+    "DiskRead": 6.27,
+    "DiskWrite": 110.34,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 165398.36
+  },
+  "pussccpweb04.senderrarx.local": {
+    "CPU": 20.74,
+    "Memory": 51032.2,
+    "DiskFree": 75.47,
+    "DiskRead": 1.02,
+    "DiskWrite": 6.78,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 567491.02
+  },
+  "PDCEMR01.senderrarx.local": {
+    "CPU": 0.71,
+    "Memory": 12662.75,
+    "DiskFree": 82.69,
+    "DiskRead": 0.07,
+    "DiskWrite": 3.14,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 12588.34
+  },
+  "PDCATS01.senderrarx.local": {
+    "CPU": 5.94,
+    "Memory": 16649.75,
+    "DiskFree": 27.68,
+    "DiskRead": 0.38,
+    "DiskWrite": 7.62,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 101576.83
+  },
+  "PDCBB01.senderrarx.local": {
+    "CPU": 2.13,
+    "Memory": 1229,
+    "DiskFree": 53.96,
+    "DiskRead": 0.4,
+    "DiskWrite": 2.12,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 18672.06
+  },
+  "pussccpweb01.senderrarx.local": {
+    "CPU": 18.93,
+    "Memory": 51938.4,
+    "DiskFree": 67.81,
+    "DiskRead": 0.96,
+    "DiskWrite": 6.59,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 376351.41
+  },
+  "PDCHelixApp01.senderrarx.local": {
+    "CPU": 6.91,
+    "Memory": 11753.2,
+    "DiskFree": 48.76,
+    "DiskRead": 8.47,
+    "DiskWrite": 7.16,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 136266.35
+  },
+  "PDCPrint1901.senderrarx.local": {
+    "CPU": 9.17,
+    "Memory": 7765,
+    "DiskFree": 20.39,
+    "DiskRead": 0.23,
+    "DiskWrite": 15.5,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 31891.5
+  },
+  "pusscdocweb01.senderrarx.local": {
+    "CPU": 1.24,
+    "Memory": 23483.8,
+    "DiskFree": 81.26,
+    "DiskRead": 0.88,
+    "DiskWrite": 4.03,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 49368.78
+  },
+  "pusscdwsql01.senderrarx.local": {
+    "CPU": 8.46,
+    "Memory": 24266.8,
+    "DiskFree": 68.87,
+    "DiskRead": 756.23,
+    "DiskWrite": 14.53,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 835603.63
+  },
+  "pussccpweb02.senderrarx.local": {
+    "CPU": 18.2,
+    "Memory": 52037.2,
+    "DiskFree": 57.85,
+    "DiskRead": 1.36,
+    "DiskWrite": 6.1,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 580788.24
+  },
+  "pussccpweb03.senderrarx.local": {
+    "CPU": 15.1,
+    "Memory": 51116,
+    "DiskFree": 68.42,
+    "DiskRead": 0.75,
+    "DiskWrite": 4.61,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 421263.9
+  },
+  "PDCAlA02": {
+    "CPU": 5.67,
+    "Memory": "N/A",
+    "DiskFree": "N/A",
+    "DiskRead": "N/A",
+    "DiskWrite": "N/A",
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 2759855243.03
+  },
+  "pussccpsql01.senderrarx.local": {
+    "CPU": 13.94,
+    "Memory": 99048.75,
+    "DiskFree": 71.29,
+    "DiskRead": 15.29,
+    "DiskWrite": 79.33,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 752284.23
+  },
+  "pusscitftp01.senderrarx.local": {
+    "CPU": 2.2,
+    "Memory": 3492.5,
+    "DiskFree": 88.67,
+    "DiskRead": 0.07,
+    "DiskWrite": 3.27,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 32425.64
+  }
+}
+{
+  "PDCCPFS01.senderrarx.local": {
+    "CPU": 2.57,
+    "Memory": 56139.5,
+    "DiskFree": 42.21,
+    "DiskRead": 64.28,
+    "DiskWrite": 20.66,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 840984.27
+  },
+  "pusscdocweb02.senderrarx.local": {
+    "CPU": 1.13,
+    "Memory": 24682,
+    "DiskFree": 81.58,
+    "DiskRead": 9.67,
+    "DiskWrite": 3.02,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 60542
+  },
+  "PDCAPI01.senderrarx.local": {
+    "CPU": 8.78,
+    "Memory": 18059.75,
+    "DiskFree": 25.12,
+    "DiskRead": 0.37,
+    "DiskWrite": 8.04,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 11719.39
+  },
+  "PDCData.senderrarx.local": {
+    "CPU": 6.15,
+    "Memory": 4364,
+    "DiskFree": 78,
+    "DiskRead": 0.16,
+    "DiskWrite": 2.87,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 21586.57
+  },
+  "PDCRNADB01.senderrarx.local": {
+    "CPU": 8,
+    "Memory": 30181,
+    "DiskFree": 49.21,
+    "DiskRead": 6.27,
+    "DiskWrite": 110.34,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 165398.36
+  },
+  "pussccpweb04.senderrarx.local": {
+    "CPU": 20.74,
+    "Memory": 51032.2,
+    "DiskFree": 75.47,
+    "DiskRead": 1.02,
+    "DiskWrite": 6.78,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 567491.02
+  },
+  "PDCEMR01.senderrarx.local": {
+    "CPU": 0.71,
+    "Memory": 12662.75,
+    "DiskFree": 82.69,
+    "DiskRead": 0.07,
+    "DiskWrite": 3.14,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 12588.34
+  },
+  "PDCATS01.senderrarx.local": {
+    "CPU": 5.94,
+    "Memory": 16649.75,
+    "DiskFree": 27.68,
+    "DiskRead": 0.38,
+    "DiskWrite": 7.62,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 101576.83
+  },
+  "PDCBB01.senderrarx.local": {
+    "CPU": 2.13,
+    "Memory": 1229,
+    "DiskFree": 53.96,
+    "DiskRead": 0.4,
+    "DiskWrite": 2.12,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 18672.06
+  },
+  "pussccpweb01.senderrarx.local": {
+    "CPU": 18.93,
+    "Memory": 51938.4,
+    "DiskFree": 67.81,
+    "DiskRead": 0.96,
+    "DiskWrite": 6.59,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 376351.41
+  },
+  "PDCHelixApp01.senderrarx.local": {
+    "CPU": 6.91,
+    "Memory": 11753.2,
+    "DiskFree": 48.76,
+    "DiskRead": 8.47,
+    "DiskWrite": 7.16,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 136266.35
+  },
+  "PDCPrint1901.senderrarx.local": {
+    "CPU": 9.17,
+    "Memory": 7765,
+    "DiskFree": 20.39,
+    "DiskRead": 0.23,
+    "DiskWrite": 15.5,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 31891.5
+  },
+  "pusscdocweb01.senderrarx.local": {
+    "CPU": 1.24,
+    "Memory": 23483.8,
+    "DiskFree": 81.26,
+    "DiskRead": 0.88,
+    "DiskWrite": 4.03,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 49368.78
+  },
+  "pusscdwsql01.senderrarx.local": {
+    "CPU": 8.46,
+    "Memory": 24266.8,
+    "DiskFree": 68.87,
+    "DiskRead": 756.23,
+    "DiskWrite": 14.53,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 835603.63
+  },
+  "pussccpweb02.senderrarx.local": {
+    "CPU": 18.2,
+    "Memory": 52037.2,
+    "DiskFree": 57.85,
+    "DiskRead": 1.36,
+    "DiskWrite": 6.1,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 580788.24
+  },
+  "pussccpweb03.senderrarx.local": {
+    "CPU": 15.1,
+    "Memory": 51116,
+    "DiskFree": 68.42,
+    "DiskRead": 0.75,
+    "DiskWrite": 4.61,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 421263.9
+  },
+  "PDCAlA02": {
+    "CPU": 5.67,
+    "Memory": "N/A",
+    "DiskFree": "N/A",
+    "DiskRead": "N/A",
+    "DiskWrite": "N/A",
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 2759855243.03
+  },
+  "pussccpsql01.senderrarx.local": {
+    "CPU": 13.94,
+    "Memory": 99048.75,
+    "DiskFree": 71.29,
+    "DiskRead": 15.29,
+    "DiskWrite": 79.33,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 752284.23
+  },
+  "pusscitftp01.senderrarx.local": {
+    "CPU": 2.2,
+    "Memory": 3492.5,
+    "DiskFree": 88.67,
+    "DiskRead": 0.07,
+    "DiskWrite": 3.27,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 32425.64
+  }
+}
+{
+  "PDCCPFS01.senderrarx.local": {
+    "CPU": 2.57,
+    "Memory": 56139.5,
+    "DiskFree": 42.21,
+    "DiskRead": 64.28,
+    "DiskWrite": 20.66,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 840984.27
+  },
+  "pusscdocweb02.senderrarx.local": {
+    "CPU": 1.13,
+    "Memory": 24682,
+    "DiskFree": 81.58,
+    "DiskRead": 9.67,
+    "DiskWrite": 3.02,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 60542
+  },
+  "PDCAPI01.senderrarx.local": {
+    "CPU": 8.78,
+    "Memory": 18059.75,
+    "DiskFree": 25.12,
+    "DiskRead": 0.37,
+    "DiskWrite": 8.04,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 11719.39
+  },
+  "PDCData.senderrarx.local": {
+    "CPU": 6.15,
+    "Memory": 4364,
+    "DiskFree": 78,
+    "DiskRead": 0.16,
+    "DiskWrite": 2.87,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 21586.57
+  },
+  "PDCRNADB01.senderrarx.local": {
+    "CPU": 8,
+    "Memory": 30181,
+    "DiskFree": 49.21,
+    "DiskRead": 6.27,
+    "DiskWrite": 110.34,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 165398.36
+  },
+  "pussccpweb04.senderrarx.local": {
+    "CPU": 20.74,
+    "Memory": 51032.2,
+    "DiskFree": 75.47,
+    "DiskRead": 1.02,
+    "DiskWrite": 6.78,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 567491.02
+  },
+  "PDCEMR01.senderrarx.local": {
+    "CPU": 0.71,
+    "Memory": 12662.75,
+    "DiskFree": 82.69,
+    "DiskRead": 0.07,
+    "DiskWrite": 3.14,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 12588.34
+  },
+  "PDCATS01.senderrarx.local": {
+    "CPU": 5.94,
+    "Memory": 16649.75,
+    "DiskFree": 27.68,
+    "DiskRead": 0.38,
+    "DiskWrite": 7.62,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 101576.83
+  },
+  "PDCBB01.senderrarx.local": {
+    "CPU": 2.13,
+    "Memory": 1229,
+    "DiskFree": 53.96,
+    "DiskRead": 0.4,
+    "DiskWrite": 2.12,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 18672.06
+  },
+  "pussccpweb01.senderrarx.local": {
+    "CPU": 18.93,
+    "Memory": 51938.4,
+    "DiskFree": 67.81,
+    "DiskRead": 0.96,
+    "DiskWrite": 6.59,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 376351.41
+  },
+  "PDCHelixApp01.senderrarx.local": {
+    "CPU": 6.91,
+    "Memory": 11753.2,
+    "DiskFree": 48.76,
+    "DiskRead": 8.47,
+    "DiskWrite": 7.16,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 136266.35
+  },
+  "PDCPrint1901.senderrarx.local": {
+    "CPU": 9.17,
+    "Memory": 7765,
+    "DiskFree": 20.39,
+    "DiskRead": 0.23,
+    "DiskWrite": 15.5,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 31891.5
+  },
+  "pusscdocweb01.senderrarx.local": {
+    "CPU": 1.24,
+    "Memory": 23483.8,
+    "DiskFree": 81.26,
+    "DiskRead": 0.88,
+    "DiskWrite": 4.03,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 49368.78
+  },
+  "pusscdwsql01.senderrarx.local": {
+    "CPU": 8.46,
+    "Memory": 24266.8,
+    "DiskFree": 68.87,
+    "DiskRead": 756.23,
+    "DiskWrite": 14.53,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 835603.63
+  },
+  "pussccpweb02.senderrarx.local": {
+    "CPU": 18.2,
+    "Memory": 52037.2,
+    "DiskFree": 57.85,
+    "DiskRead": 1.36,
+    "DiskWrite": 6.1,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 580788.24
+  },
+  "pussccpweb03.senderrarx.local": {
+    "CPU": 15.1,
+    "Memory": 51116,
+    "DiskFree": 68.42,
+    "DiskRead": 0.75,
+    "DiskWrite": 4.61,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 421263.9
+  },
+  "PDCAlA02": {
+    "CPU": 5.67,
+    "Memory": "N/A",
+    "DiskFree": "N/A",
+    "DiskRead": "N/A",
+    "DiskWrite": "N/A",
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 2759855243.03
+  },
+  "pussccpsql01.senderrarx.local": {
+    "CPU": 13.94,
+    "Memory": 99048.75,
+    "DiskFree": 71.29,
+    "DiskRead": 15.29,
+    "DiskWrite": 79.33,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 752284.23
+  },
+  "pusscitftp01.senderrarx.local": {
+    "CPU": 2.2,
+    "Memory": 3492.5,
+    "DiskFree": 88.67,
+    "DiskRead": 0.07,
+    "DiskWrite": 3.27,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 32425.64
+  }
+}
+{
+  "PDCCPFS01.senderrarx.local": {
+    "CPU": 2.57,
+    "Memory": 56139.5,
+    "DiskFree": 42.21,
+    "DiskRead": 64.28,
+    "DiskWrite": 20.66,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 840984.27
+  },
+  "pusscdocweb02.senderrarx.local": {
+    "CPU": 1.13,
+    "Memory": 24682,
+    "DiskFree": 81.58,
+    "DiskRead": 9.67,
+    "DiskWrite": 3.02,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 60542
+  },
+  "PDCAPI01.senderrarx.local": {
+    "CPU": 8.78,
+    "Memory": 18059.75,
+    "DiskFree": 25.12,
+    "DiskRead": 0.37,
+    "DiskWrite": 8.04,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 11719.39
+  },
+  "PDCData.senderrarx.local": {
+    "CPU": 6.15,
+    "Memory": 4364,
+    "DiskFree": 78,
+    "DiskRead": 0.16,
+    "DiskWrite": 2.87,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 21586.57
+  },
+  "PDCRNADB01.senderrarx.local": {
+    "CPU": 8,
+    "Memory": 30181,
+    "DiskFree": 49.21,
+    "DiskRead": 6.27,
+    "DiskWrite": 110.34,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 165398.36
+  },
+  "pussccpweb04.senderrarx.local": {
+    "CPU": 20.74,
+    "Memory": 51032.2,
+    "DiskFree": 75.47,
+    "DiskRead": 1.02,
+    "DiskWrite": 6.78,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 567491.02
+  },
+  "PDCEMR01.senderrarx.local": {
+    "CPU": 0.71,
+    "Memory": 12662.75,
+    "DiskFree": 82.69,
+    "DiskRead": 0.07,
+    "DiskWrite": 3.14,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 12588.34
+  },
+  "PDCATS01.senderrarx.local": {
+    "CPU": 5.94,
+    "Memory": 16649.75,
+    "DiskFree": 27.68,
+    "DiskRead": 0.38,
+    "DiskWrite": 7.62,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 101576.83
+  },
+  "PDCBB01.senderrarx.local": {
+    "CPU": 2.13,
+    "Memory": 1229,
+    "DiskFree": 53.96,
+    "DiskRead": 0.4,
+    "DiskWrite": 2.12,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 18672.06
+  },
+  "pussccpweb01.senderrarx.local": {
+    "CPU": 18.93,
+    "Memory": 51938.4,
+    "DiskFree": 67.81,
+    "DiskRead": 0.96,
+    "DiskWrite": 6.59,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 376351.41
+  },
+  "PDCHelixApp01.senderrarx.local": {
+    "CPU": 6.91,
+    "Memory": 11753.2,
+    "DiskFree": 48.76,
+    "DiskRead": 8.47,
+    "DiskWrite": 7.16,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 136266.35
+  },
+  "PDCPrint1901.senderrarx.local": {
+    "CPU": 9.17,
+    "Memory": 7765,
+    "DiskFree": 20.39,
+    "DiskRead": 0.23,
+    "DiskWrite": 15.5,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 31891.5
+  },
+  "pusscdocweb01.senderrarx.local": {
+    "CPU": 1.24,
+    "Memory": 23483.8,
+    "DiskFree": 81.26,
+    "DiskRead": 0.88,
+    "DiskWrite": 4.03,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 49368.78
+  },
+  "pusscdwsql01.senderrarx.local": {
+    "CPU": 8.46,
+    "Memory": 24266.8,
+    "DiskFree": 68.87,
+    "DiskRead": 756.23,
+    "DiskWrite": 14.53,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 835603.63
+  },
+  "pussccpweb02.senderrarx.local": {
+    "CPU": 18.2,
+    "Memory": 52037.2,
+    "DiskFree": 57.85,
+    "DiskRead": 1.36,
+    "DiskWrite": 6.1,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 580788.24
+  },
+  "pussccpweb03.senderrarx.local": {
+    "CPU": 15.1,
+    "Memory": 51116,
+    "DiskFree": 68.42,
+    "DiskRead": 0.75,
+    "DiskWrite": 4.61,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 421263.9
+  },
+  "PDCAlA02": {
+    "CPU": 5.67,
+    "Memory": "N/A",
+    "DiskFree": "N/A",
+    "DiskRead": "N/A",
+    "DiskWrite": "N/A",
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 2759855243.03
+  },
+  "pussccpsql01.senderrarx.local": {
+    "CPU": 13.94,
+    "Memory": 99048.75,
+    "DiskFree": 71.29,
+    "DiskRead": 15.29,
+    "DiskWrite": 79.33,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 752284.23
+  },
+  "pusscitftp01.senderrarx.local": {
+    "CPU": 2.2,
+    "Memory": 3492.5,
+    "DiskFree": 88.67,
+    "DiskRead": 0.07,
+    "DiskWrite": 3.27,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 32425.64
+  }
+}
+{
+  "PDCCPFS01.senderrarx.local": {
+    "CPU": 2.57,
+    "Memory": 56139.5,
+    "DiskFree": 42.21,
+    "DiskRead": 64.28,
+    "DiskWrite": 20.66,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 840984.27
+  },
+  "pusscdocweb02.senderrarx.local": {
+    "CPU": 1.13,
+    "Memory": 24682,
+    "DiskFree": 81.58,
+    "DiskRead": 9.67,
+    "DiskWrite": 3.02,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 60542
+  },
+  "PDCAPI01.senderrarx.local": {
+    "CPU": 8.78,
+    "Memory": 18059.75,
+    "DiskFree": 25.12,
+    "DiskRead": 0.37,
+    "DiskWrite": 8.04,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 11719.39
+  },
+  "PDCData.senderrarx.local": {
+    "CPU": 6.15,
+    "Memory": 4364,
+    "DiskFree": 78,
+    "DiskRead": 0.16,
+    "DiskWrite": 2.87,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 21586.57
+  },
+  "PDCRNADB01.senderrarx.local": {
+    "CPU": 8,
+    "Memory": 30181,
+    "DiskFree": 49.21,
+    "DiskRead": 6.27,
+    "DiskWrite": 110.34,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 165398.36
+  },
+  "pussccpweb04.senderrarx.local": {
+    "CPU": 20.74,
+    "Memory": 51032.2,
+    "DiskFree": 75.47,
+    "DiskRead": 1.02,
+    "DiskWrite": 6.78,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 567491.02
+  },
+  "PDCEMR01.senderrarx.local": {
+    "CPU": 0.71,
+    "Memory": 12662.75,
+    "DiskFree": 82.69,
+    "DiskRead": 0.07,
+    "DiskWrite": 3.14,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 12588.34
+  },
+  "PDCATS01.senderrarx.local": {
+    "CPU": 5.94,
+    "Memory": 16649.75,
+    "DiskFree": 27.68,
+    "DiskRead": 0.38,
+    "DiskWrite": 7.62,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 101576.83
+  },
+  "PDCBB01.senderrarx.local": {
+    "CPU": 2.13,
+    "Memory": 1229,
+    "DiskFree": 53.96,
+    "DiskRead": 0.4,
+    "DiskWrite": 2.12,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 18672.06
+  },
+  "pussccpweb01.senderrarx.local": {
+    "CPU": 18.93,
+    "Memory": 51938.4,
+    "DiskFree": 67.81,
+    "DiskRead": 0.96,
+    "DiskWrite": 6.59,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 376351.41
+  },
+  "PDCHelixApp01.senderrarx.local": {
+    "CPU": 6.91,
+    "Memory": 11753.2,
+    "DiskFree": 48.76,
+    "DiskRead": 8.47,
+    "DiskWrite": 7.16,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 136266.35
+  },
+  "PDCPrint1901.senderrarx.local": {
+    "CPU": 9.17,
+    "Memory": 7765,
+    "DiskFree": 20.39,
+    "DiskRead": 0.23,
+    "DiskWrite": 15.5,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 31891.5
+  },
+  "pusscdocweb01.senderrarx.local": {
+    "CPU": 1.24,
+    "Memory": 23483.8,
+    "DiskFree": 81.26,
+    "DiskRead": 0.88,
+    "DiskWrite": 4.03,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 49368.78
+  },
+  "pusscdwsql01.senderrarx.local": {
+    "CPU": 8.46,
+    "Memory": 24266.8,
+    "DiskFree": 68.87,
+    "DiskRead": 756.23,
+    "DiskWrite": 14.53,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 835603.63
+  },
+  "pussccpweb02.senderrarx.local": {
+    "CPU": 18.2,
+    "Memory": 52037.2,
+    "DiskFree": 57.85,
+    "DiskRead": 1.36,
+    "DiskWrite": 6.1,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 580788.24
+  },
+  "pussccpweb03.senderrarx.local": {
+    "CPU": 15.1,
+    "Memory": 51116,
+    "DiskFree": 68.42,
+    "DiskRead": 0.75,
+    "DiskWrite": 4.61,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 421263.9
+  },
+  "PDCAlA02": {
+    "CPU": 5.67,
+    "Memory": "N/A",
+    "DiskFree": "N/A",
+    "DiskRead": "N/A",
+    "DiskWrite": "N/A",
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 2759855243.03
+  },
+  "pussccpsql01.senderrarx.local": {
+    "CPU": 13.94,
+    "Memory": 99048.75,
+    "DiskFree": 71.29,
+    "DiskRead": 15.29,
+    "DiskWrite": 79.33,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 752284.23
+  },
+  "pusscitftp01.senderrarx.local": {
+    "CPU": 2.2,
+    "Memory": 3492.5,
+    "DiskFree": 88.67,
+    "DiskRead": 0.07,
+    "DiskWrite": 3.27,
+    "NetworkIn": "N/A",
+    "NetworkOut": "N/A",
+    "Unknown": 32425.64
+  }
+}
