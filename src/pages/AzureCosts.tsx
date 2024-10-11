@@ -1,22 +1,58 @@
 // src/pages/AzureCosts.tsx
 
-import React from "react";
-import Logout from '../components/Logout'; // Import the reusable Logout component
-
 /**
  * AzureCosts Component:
  * - This page is intended to display Azure cost data to users.
- * - It currently displays a placeholder message and includes the reusable Logout button.
- * - Future functionality will allow users to view cost breakdowns and export data as a CSV file for financial purposes.
+ * - It fetches cost data from the backend API.
+ * - Displays the subscription and resource group costs.
+ * - It also includes a Logout button.
  */
+
+import React, { useEffect, useState } from "react";
+import axios from "axios";
+import Logout from "../components/Logout";
+
 const AzureCosts: React.FC = () => {
+    const [costData, setCostData] = useState<any>(null);
+    const [error, setError] = useState<string | null>(null);
+    const [loading, setLoading] = useState(false);
+
+    const fetchCostData = async () => {
+        try {
+            setLoading(true);
+            const response = await axios.get('http://localhost:5000/api/costs'); // Updated: Full URL to backend
+            setCostData(response.data);  // Store the entire response data
+            setLoading(false);
+        } catch (err) {
+            setError("Error fetching cost data.");
+            console.error('Error:', err);
+            setLoading(false);
+        }
+    };
+    
+
+    useEffect(() => {
+        fetchCostData();
+    }, []);
+
     return (
         <div>
             <h1>Azure Costs</h1>
-            {/* Placeholder message indicating future cost data integration */}
-            <p>This page will show cost breakdowns with the ability to export as CSV.</p>
-            
-            {/* Add the Logout button for user logout functionality */}
+
+            {loading && <p>Loading cost data...</p>}
+            {error && <p>{error}</p>}
+
+            {/* Display cost by subscription */}
+            {costData ? (
+                <div>
+                    <h2>Cost by Subscription</h2>
+                    <pre>{JSON.stringify(costData, null, 2)}</pre>
+                </div>
+            ) : (
+                !loading && <p>No cost data available</p>
+            )}
+
+            {/* Reusable Logout button */}
             <Logout />
         </div>
     );

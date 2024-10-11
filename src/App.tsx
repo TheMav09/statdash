@@ -15,6 +15,12 @@ import AzureHealth from './pages/AzureHealth'; // Import of the AzureHealth comp
 import AzureCosts from './pages/AzureCosts'; // Import of the AzureCosts component
 import AzureManagement from './pages/AzureManagement'; // Import of the AzureManagement component
 import AssetManagement from './pages/AssetManagement'; // Import of the AssetManagement component
+import AzureVmsByTag from './pages/azureVmsByTag';  // Import of the new AzureVmsByTag component
+import { initializeMsalInstance } from './services/azureServices/tokenManager'; // Ensure MSAL initialization
+import AzureVmMetrics from './pages/azureVmMetrics';
+
+// Initialize MSAL instance before using it
+initializeMsalInstance();
 
 // Create an instance of MSAL with the provided configuration
 const msalInstance = new PublicClientApplication(msalConfig);
@@ -39,6 +45,8 @@ function App() {
             <Route path="/azure-costs" element={<AzureCosts />} />
             <Route path="/azure-management" element={<AzureManagement />} />
             <Route path="/asset-management" element={<AssetManagement />} />
+            <Route path="/vms-by-tags" element={<AzureVmsByTag />} />  {/* New route for VMs by tag */}
+            <Route path="/azure-vm-metrics" element={<AzureVmMetrics />} />
           </Routes>
         </Router>
       </MsalProvider>
