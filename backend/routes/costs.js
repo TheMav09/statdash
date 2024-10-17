@@ -1,6 +1,7 @@
 import express from 'express';
 import axios from 'axios';
-import { getManagementAccessToken } from '../tokenManagerBackend.js'; // Make sure this retrieves the right token
+import { getManagementAccessToken } from '../tokenManagerBackend.js';  // Ensure this retrieves the right token
+import dayjs from 'dayjs';  // We will use dayjs to calculate dates
 
 const router = express.Router();
 
@@ -8,11 +9,19 @@ const router = express.Router();
 router.get('/', async (req, res) => {
     try {
         const accessToken = await getManagementAccessToken();  // Correct Management API token
+        
+        // Calculate the start date (90 days back) and the end date (today)
+        const startDate = dayjs().subtract(90, 'day').format('YYYY-MM-DD');
+        const endDate = dayjs().format('YYYY-MM-DD');
+
         const payload = {
             type: "Usage",
-            timeframe: "MonthToDate",
+            timePeriod: {
+                from: startDate,
+                to: endDate
+            },
             dataset: {
-                granularity: "Daily",
+                granularity: "Daily",  // Keep granularity as daily
                 aggregation: {
                     totalCost: {
                         name: "PreTaxCost",
@@ -22,7 +31,7 @@ router.get('/', async (req, res) => {
                 grouping: [
                     {
                         type: "Dimension",
-                        name: "ResourceGroup"
+                        name: "ResourceGroup"  // Group by Resource Group
                     }
                 ]
             }
