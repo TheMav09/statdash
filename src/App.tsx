@@ -67,7 +67,7 @@ function App() {
 function NavbarTest() {
   return (
     <>
-      <h1>*Insert Navbar*</h1>
+      <h1>*Insdedrt Navbar*</h1>
       <Outlet></Outlet>
     </>
   );
