@@ -4,7 +4,7 @@ import { ReactNode } from "react";
 
 export function Meraki() {
   const [devices, setDevices] = useState<DeviceProps[]>();
-
+  const [tables, setTables] = useState(Array(DeviceSegment));
   const f = { name: "", address: "", model: "", serial: "", url: "" };
   useEffect(() => {
     axios.get("http://localhost:5000/api/meraki").then((res) => {
@@ -18,39 +18,44 @@ export function Meraki() {
 
       axios.get("http://localhost:5000/api/status").then((res1) => {
         k = res1.data;
-        console.log(k[1]);
+
         Object.values(res.data).forEach((element, index) => {
           // console.log(element);
           var f = element as DeviceProps;
-          var fName = "";
+          var locationName = "";
           var splits = f.name.split("-");
 
           for (let i = 1; i < splits.length; i++) {
-            fName += splits[i];
+            locationName += splits[i];
 
-            if (i + 1 < splits.length) fName += "-";
+            if (i + 1 < splits.length) locationName += "-";
           }
-
-          array.push({
-            name: fName,
-            address: f.address,
-            model: f.model.split("-")[0],
-            serial: f.serial,
-            url: f.url,
-            office: splits[0],
-            status: res1.data[index].status,
-          });
+          if (locationName !== "") {
+            array.push({
+              name: locationName,
+              address: f.address,
+              model: f.model.split("-")[0],
+              serial: f.serial,
+              url: f.url,
+              office: splits[0],
+              status: res1.data[index].status,
+            });
+          }
         });
 
         //unique models
-        const uniqueTags = [new Set(array.map((e) => e.model))];
-        console.log(uniqueTags);
+        const uniqueTags = new Set(array.map((e) => e.model));
 
-        let l = { key: "", value: "" };
-
-        let f = Array({ key: "", value: "" });
-
-        for (let i = 0; i < array.length; i++) {}
+        array = array.sort((a, b) => {
+          if (b.office !== a.office) {
+            return b.office.localeCompare(a.office);
+          } else if (b.status === "dormant") {
+            return -1;
+          } else if (a.status === "dormant") {
+            return 1;
+          }
+          return a.status.localeCompare(b.status);
+        });
 
         setDevices(array);
       });
@@ -65,10 +70,16 @@ export function Meraki() {
         <tr>
           <th>Location</th>
           <th>Name</th>
-          <th>Other</th>
+          <th>Model</th>
+          <th>Status</th>
+          {/* <th>URL</th> */}
         </tr>
         {devices?.map((r, key) => {
-          return <DeviceEntry {...r} key={key}></DeviceEntry>;
+          return (
+            <>
+              <DeviceEntry {...r} key={key}></DeviceEntry>
+            </>
+          );
         })}
       </table>
     </>
@@ -81,6 +92,16 @@ export function Meraki() {
 //     return <h1>Test</h1>;
 //   }
 // }
+
+const DeviceSegment = () => {
+  const [boundEntries, setBoundEntries] = useState(Array(DeviceEntry));
+  return (
+    <>
+      <h1>Parent</h1>
+      {boundEntries}
+    </>
+  );
+};
 
 interface DeviceProps {
   name: string;
@@ -96,9 +117,14 @@ const DeviceEntry: React.FC<DeviceProps> = (DeviceProps, key) => {
   return (
     <tr key={key}>
       <td>{DeviceProps.office}</td>
-      <td>{DeviceProps.name}</td>
+      <td onClick={() => window.open(DeviceProps.url, "_blank")}>
+        {DeviceProps.name}
+      </td>
       <td>{DeviceProps.model}</td>
       <td>{DeviceProps.status}</td>
+      {/* <td onClick={() => window.open(DeviceProps.url, "_blank")}>
+        {DeviceProps.url}
+      </td> */}
     </tr>
   );
 };
