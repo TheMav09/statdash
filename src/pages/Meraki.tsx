@@ -11,29 +11,49 @@ export function Meraki() {
       //  console.log(res);
 
       var array: DeviceProps[] = [];
-      Object.values(res.data).forEach((element) => {
-        console.log(element);
-        var f = element as DeviceProps;
-        var fName = "";
-        var splits = f.name.split("-");
 
-        for (let i = 1; i < splits.length; i++) {
-          fName += splits[i];
+      //grab Statues
 
-          if (i + 1 < splits.length) fName += "-";
-        }
+      var k;
 
-        array.push({
-          name: fName,
-          address: f.address,
-          model: f.model,
-          serial: f.serial,
-          url: f.url,
-          office: splits[0],
+      axios.get("http://localhost:5000/api/status").then((res1) => {
+        k = res1.data;
+        console.log(k[1]);
+        Object.values(res.data).forEach((element, index) => {
+          // console.log(element);
+          var f = element as DeviceProps;
+          var fName = "";
+          var splits = f.name.split("-");
+
+          for (let i = 1; i < splits.length; i++) {
+            fName += splits[i];
+
+            if (i + 1 < splits.length) fName += "-";
+          }
+
+          array.push({
+            name: fName,
+            address: f.address,
+            model: f.model.split("-")[0],
+            serial: f.serial,
+            url: f.url,
+            office: splits[0],
+            status: res1.data[index].status,
+          });
         });
-      });
 
-      setDevices(array);
+        //unique models
+        const uniqueTags = [new Set(array.map((e) => e.model))];
+        console.log(uniqueTags);
+
+        let l = { key: "", value: "" };
+
+        let f = Array({ key: "", value: "" });
+
+        for (let i = 0; i < array.length; i++) {}
+
+        setDevices(array);
+      });
     });
   }, []);
 
@@ -41,12 +61,16 @@ export function Meraki() {
     <>
       <h1>Meraki</h1>
       <button onClick={ButtonClick}>Click</button>
-      <h1>I hate it here</h1>
-      <ol>
-        {devices?.map((r) => {
-          return <DeviceEntry {...r}></DeviceEntry>;
+      <table>
+        <tr>
+          <th>Location</th>
+          <th>Name</th>
+          <th>Other</th>
+        </tr>
+        {devices?.map((r, key) => {
+          return <DeviceEntry {...r} key={key}></DeviceEntry>;
         })}
-      </ol>
+      </table>
     </>
   );
 }
@@ -65,13 +89,17 @@ interface DeviceProps {
   serial: string;
   url: string;
   office: string;
+  status: string;
 }
 
-const DeviceEntry: React.FC<DeviceProps> = (DeviceProps) => {
+const DeviceEntry: React.FC<DeviceProps> = (DeviceProps, key) => {
   return (
-    <h1>
-      {DeviceProps.office}-{DeviceProps.name}
-    </h1>
+    <tr key={key}>
+      <td>{DeviceProps.office}</td>
+      <td>{DeviceProps.name}</td>
+      <td>{DeviceProps.model}</td>
+      <td>{DeviceProps.status}</td>
+    </tr>
   );
 };
 

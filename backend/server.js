@@ -34,6 +34,7 @@ app.use("/api/azureVmMetrics", azureVmMetricsRoutes); // Route for fetching Azur
 
 //Meraki API Calls
 app.use("/api/meraki", async (req, res) => {
+  console.log("Hel");
   try {
     const response = await axios.get(
       `https://api.meraki.com/api/v1/organizations/${process.env.MERAKI_ORG_ID}/devices`,
@@ -51,6 +52,24 @@ app.use("/api/meraki", async (req, res) => {
   }
 
   //res.send("HI");
+});
+app.use("/api/status", async (req, res) => {
+  console.log("pop");
+  try {
+    const response = await axios.get(
+      `https://api.meraki.com/api/v1/organizations/${process.env.MERAKI_ORG_ID}/devices/availabilities`,
+      {
+        headers: {
+          Authorization: `Bearer ${process.env.MERAKI_API_KEY}`,
+        },
+      }
+    );
+
+    res.json(response.data); // Send back the VM data with memory information
+  } catch (error) {
+    console.error("Error fetching VMs:", error);
+    res.status(500).send("Error fetching VMs");
+  }
 });
 
 // 404 handler for non-existent routes
