@@ -4,7 +4,7 @@ import { ReactNode } from "react";
 
 export function Meraki() {
   const [devices, setDevices] = useState<DeviceProps[]>();
-  const [tables, setTables] = useState(Array(DeviceSegment));
+  const [tables, setTables] = useState<F[]>();
   const f = { name: "", address: "", model: "", serial: "", url: "" };
   useEffect(() => {
     axios.get("http://localhost:5000/api/meraki").then((res) => {
@@ -30,21 +30,21 @@ export function Meraki() {
 
             if (i + 1 < splits.length) locationName += "-";
           }
-          if (locationName !== "") {
-            array.push({
-              name: locationName,
-              address: f.address,
-              model: f.model.split("-")[0],
-              serial: f.serial,
-              url: f.url,
-              office: splits[0],
-              status: res1.data[index].status,
-            });
-          }
+
+          array.push({
+            name: locationName,
+            address: f.address,
+            model: f.model.split("-")[0],
+            serial: f.serial,
+            url: f.url,
+            office: splits[0],
+            status: res1.data[index].status,
+          });
         });
 
         //unique models
         const uniqueTags = new Set(array.map((e) => e.model));
+        var segments: F[] = [];
 
         array = array.sort((a, b) => {
           if (b.office !== a.office) {
@@ -57,6 +57,23 @@ export function Meraki() {
           return a.status.localeCompare(b.status);
         });
 
+        let set = new Set();
+
+        array.forEach((ele) => {
+          if (set.has(ele.office)) {
+            segments[segments.length - 1].props.push(ele);
+            return;
+          }
+          segments.push({
+            priority: 0,
+            props: [],
+          });
+          segments[segments.length - 1].props.push(ele);
+          set.add(ele.office);
+        });
+
+        let tempArray = array;
+        setTables(segments);
         setDevices(array);
       });
     });
@@ -74,10 +91,17 @@ export function Meraki() {
           <th>Status</th>
           {/* <th>URL</th> */}
         </tr>
-        {devices?.map((r, key) => {
+        {/* {devices?.map((r, key) => {
           return (
             <>
               <DeviceEntry {...r} key={key}></DeviceEntry>
+            </>
+          );
+        })} */}
+        {tables?.map((r, key) => {
+          return (
+            <>
+              <DeviceSegment {...r} key={key}></DeviceSegment>
             </>
           );
         })}
@@ -86,22 +110,32 @@ export function Meraki() {
   );
 }
 
-//
-// class DeviceEntry extends React.Component {
-//   render(): ReactNode {
-//     return <h1>Test</h1>;
-//   }
-// }
+const DeviceSegment: React.FC<F> = (F) => {
+  // const [boundEntries, setBoundEntries] = useState(F);
 
-const DeviceSegment = () => {
-  const [boundEntries, setBoundEntries] = useState(Array(DeviceEntry));
+  // setBoundEntries(F);
+
+  console.log(F.props[0]);
+
   return (
     <>
-      <h1>Parent</h1>
-      {boundEntries}
+      <tr>Parent</tr>
+      {F.props.map((ele) => {
+        return <DeviceEntry {...ele}></DeviceEntry>;
+      })}
     </>
   );
 };
+
+// function DeviceSegment() {
+//   const [f, sf] = useState();
+//   let K = 0;
+// }
+
+interface F {
+  priority: number;
+  props: DeviceProps[];
+}
 
 interface DeviceProps {
   name: string;
@@ -135,6 +169,19 @@ function ButtonClick() {
   axios.get("http://localhost:5000/api/meraki").then((res) => {
     console.log(res);
   });
+}
+
+function CountData(data: any[], key: string | number) {
+  if (data === null || data.length == 0) return undefined;
+
+  return data.reduce((result: any[], current) => {
+    if (!result[current[key]]) {
+      result[current[key]] = 1;
+    } else {
+      result[current[key]] += 1;
+    }
+    return result;
+  }, {});
 }
 
 export default Meraki;
