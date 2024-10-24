@@ -47,13 +47,13 @@ app.use("/api/meraki", async (req, res) => {
 
     res.json(response.data); // Send back the VM data with memory information
   } catch (error) {
-    console.error("Error fetching VMs:", error);
-    res.status(500).send("Error fetching VMs");
+    console.error("Error fetching Devices:", error);
+    res.status(500).send("Error fetching Devices");
   }
 
   //res.send("HI");
 });
-app.use("/api/status", async (req, res) => {
+app.use("/api/meraki_status", async (req, res) => {
   console.log("pop");
   try {
     const response = await axios.get(
@@ -67,10 +67,32 @@ app.use("/api/status", async (req, res) => {
 
     res.json(response.data); // Send back the VM data with memory information
   } catch (error) {
-    console.error("Error fetching VMs:", error);
-    res.status(500).send("Error fetching VMs");
+    console.error("Error fetching Availabilities:", error);
+    res.status(500).send("Error fetching Availabilities");
   }
 });
+
+app.use("/api/meraki_speed", async (req, res) => {
+  //{{baseUrl}}/organizations/{{vault:ID}}/wireless/devices/packetLoss/byDevice?timespan=300
+  try {
+    const response = await axios.get(
+      `https://api.meraki.com/api/v1/organizations/${process.env.MERAKI_ORG_ID}/wireless/devices/packetLoss/byDevice?timespan=300`,
+      {
+        headers: {
+          Authorization: `Bearer ${process.env.MERAKI_API_KEY}`,
+        },
+      }
+    );
+
+    res.json(response.data); // Send back the VM data with memory information
+  } catch (error) {
+    console.error("Error fetching Speeds:", error);
+    res.status(500).send("Error fetching Speeds");
+  }
+  //res.send("");
+});
+
+app.use("/api/meraki_speed", async (req, res) => {});
 
 // 404 handler for non-existent routes
 app.use((req, res, next) => {
